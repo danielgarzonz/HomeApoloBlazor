@@ -1,0 +1,81 @@
+<footer>
+    <div class="container-fluid bg-apolo-dg py-5">
+        <div class="row justify-content-between">
+            <div class="col-1"></div>
+            <div class="col-xxl-2 col-xl-4">
+                <h6><b>Correo:</b></h6>
+                <p class="subtitle-dato">contacto@apoloservice.com</p>
+                <h6><b>Teléfono:</b></h6>
+                <p class="subtitle-dato">+52 (55) 52590798</p>
+                <h6><b>Dirección:</b></h6>
+                <p class="mb-5 subtitle-dato">
+                    Calle Séneca No. 134, Col. Palmas Polanco,<br>
+                    Del. Miguel Hidalgo, CP 11560, CDMX
+                </p>
+
+                <h6><b>Síguenos</b></h6>
+                <div class="social-icons mb-5">
+                    <NavLink href="https://www.facebook.com/ApoloService" target="_blank">
+                        <img src="img/iconos/icono-facebook.svg">
+                    </NavLink>
+                    <NavLink href="https://twitter.com/apoloservicemx" target="_blank">
+                        <img src="img/iconos/icono-x.svg">
+                    </NavLink>
+                    <NavLink href="https://www.linkedin.com/company/apoloservicemx/" target="_blank">
+                        <img src="img/iconos/icono-linkedin.svg">
+                    </NavLink>
+                    <NavLink href="https://www.instagram.com/apoloservice/" target="_blank">
+                        <img src="img/iconos/icono-instagram.svg">
+                    </NavLink>
+                    <NavLink href="https://www.youtube.com/channel/UCHMcpc7pwr3xkIX6793aniw" target="_blank">
+                        <img src="img/iconos/icono-youtube.svg">
+                    </NavLink>
+                    <NavLink href="https://wa.me/+525566149849" target="_blank">
+                        <img src="img/iconos/icono-whatsapp.svg">
+                    </NavLink>
+                </div>
+            </div>
+            <div class="col-xxl-2 col-xl-2">
+                <h6><b>Servicios</b></h6>
+                <ul class="list-unstyled">
+                    <li><NavLink href=@(Locale+"/nuevohome/servicioalertasapolo")>Alertas Apolo</NavLink></li>
+                    <li><NavLink href=@($"{Locale}/nuevohome/servicioretroactivas")>Búsquedas Retroactivas</NavLink></li>
+                    <li><NavLink href=@($"{Locale}/nuevohome/servicioreportesfinancieros")>Reportes Financieros</NavLink></li>
+                    <li><NavLink href=@($"{Locale}/nuevohome/servicioreporteskrypto")>Reportes Krypto</NavLink></li>
+                </ul>
+            </div>
+
+            <div class="col-xxl-2 col-xl-2">
+                <h6><b>Avisos</b></h6>
+                <ul class="list-unstyled">
+                    <li><NavLink href=@(Locale+"/nuevohome/terminos")>Términos y condiciones</NavLink></li>
+                    <li><NavLink href=@($"{Locale}/nuevohome/aviso")>Aviso de privacidad</NavLink></li>
+                    <li><NavLink href=@($"{Locale}/nuevohome/confidencialidad")>Confidencialidad y protección de datos</NavLink></li>
+                </ul>
+            </div>
+
+            <div class="col-xxl-2 col-xl-2">
+                <h6><b>Novedades</b></h6>
+                <ul class="list-unstyled">
+                    <li><NavLink href=@(Locale+"/nuevohome/noticias")>Noticias</NavLink></li>
+                    <li><NavLink href=@($"{Locale}/nuevohome/newsletter")>Newsletter</NavLink></li>
+                </ul>
+            </div>
+
+            <div class="col-xxl-2 text-center col-xl-12">
+                <img width="190" class="logo-footer" src="img/logoPrincipalBlanco.png">
+            </div>
+            
+            <div class="col-1"></div>
+        </div>
+    </div>
+    <div class="text-center bg-light p-3 text-black derechos">
+        <p class="mb-0 subtitle">2025 Servicios de Tecnología Apolo, S.A.P.I. de C.V. Todos los derechos reservados</p>
+    </div>
+</footer>
+
+@code {
+    [Parameter]
+    public string Locale { get; set; }
+}
+

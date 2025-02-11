@@ -1,0 +1,114 @@
+@inject NavigationManager NavigationManager
+
+<header class="justify-content-center d-flex">
+    <nav class="navbar navbar-expand-lg" id="nav-apolo">
+
+        <div class="container">
+            <NavLink href=@("/"+Locale+"/nuevohome")>
+                <img src="img/logo.png" class="logo" alt="Logo">
+            </NavLink>
+
+            <!--Este es el botón del menu desplegable cuando está en pantallas chicas-->
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                    aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto text-center">
+                    <li class="nav-item">
+                        <NavLink class="nav-link" href=@(Locale+"/nuevohome/nosotros")>Nosotros</NavLink>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="dropdownServicios" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">
+                            Servicios
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="dropdownServicios">
+                            <li><NavLink class="dropdown-item" href=@(Locale+"/nuevohome/servicioretroactivas")>Búsquedas Retroactivas</NavLink></li>
+                            <li><NavLink class="dropdown-item" href=@(Locale+"/nuevohome/servicioalertasapolo")>Alertas Apolo</NavLink></li>
+                            <li><NavLink class="dropdown-item" href=@(Locale+"/nuevohome/servicioreporteskrypto")>Reportes Krypto</NavLink></li>
+                            <li><NavLink class="dropdown-item" href=@(Locale+"/nuevohome/serviciomarketplace")>MarketPlace</NavLink></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item">
+                        <NavLink class="nav-link" href=@(Locale+"/nuevohome/membresias")>Membresías</NavLink>
+                    </li>
+                    <li class="nav-item">
+                        <NavLink class="nav-link" href=@(Locale+"/nuevohome/contacto")>Contacto</NavLink>
+                    </li>
+                    <li class="nav-item">
+                        <NavLink class="btn-menu btn-apolo-blue" @onclick="AbreRegistro">Registrarse</NavLink>
+                    </li>
+                    <li class="nav-item">
+                        <NavLink class="btn-menu btn-apolo-gray-light" @onclick ="IniciaSesion">Ingresar</NavLink>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <NavLink class="nav-link dropdown-toggle btn-menu btn-apolo-light" href="#" id="dropdownServicios" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">
+                            <i class="bi bi-globe2"></i>
+                            ES
+                        </NavLink>
+                        <ul class="dropdown-menu" aria-labelledby="dropdownServicios">
+                            <li>
+                                <NavLink class="dropdown-item" href="javascript:void(0);" @onclick="@(() => ActualizaIdioma("es-MX"))"><img src="img/iconos/icono-mexico.svg">&nbsp;Español (MX)</NavLink>
+                            </li>
+                            <li>
+                                <NavLink class="dropdown-item" href="javascript:void(0);" @onclick="@(() => ActualizaIdioma("en-US"))"><img src="img/iconos/icono-eua.svg">&nbsp;Inglés (US)</NavLink>
+                            </li>
+                            <li>
+                                <NavLink class="dropdown-item" href="javascript:void(0);" @onclick ="@(() => ActualizaIdioma("es-CO"))"><img src="img/iconos/icono-colombia.svg">&nbsp;Español (CO)</NavLink>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+</header>
+
+@code {
+    [Parameter]
+    public EventCallback<bool> OnOpen { get; set; }
+
+    [Parameter]
+    public string Locale { get; set; }
+
+    private void IniciaSesion()
+    {
+        OnOpen.InvokeAsync(true);
+    }
+
+    private void AbreRegistro()
+    {
+        NavigationManager.NavigateTo($"/{Locale}/apolo-registro", true);
+        //OnRegistro.InvokeAsync(true);
+    }
+
+    public void ActualizaIdioma(string locale)
+    {
+        string newUri = "";
+        var uriPath = NavigationManager.ToAbsoluteUri(NavigationManager.Uri);
+        string[] localePath = uriPath.LocalPath.Split('/');
+        if (localePath != null && localePath.Length > 1)
+        {
+            for (var i = 2; i < localePath.Length; i++)
+            {
+                newUri += localePath[i];
+            }
+        }
+
+        newUri = $"/{locale}/{newUri}";
+
+        string vName = (locale == "es-MX") ? "es-MX" : (locale == "en-US") ? "en-US" : (locale == "es-CO") ? "es-CO" : locale;
+        var uri = new Uri(NavigationManager.Uri)
+                    .GetComponents(UriComponents.PathAndQuery, UriFormat.Unescaped);
+        var cultureEscaped = Uri.EscapeDataString(vName);
+        var uriEscaped = Uri.EscapeDataString(newUri);
+
+
+        NavigationManager.NavigateTo(
+            $"Culture/Set?culture={cultureEscaped}&redirectUri={uriEscaped}",
+            forceLoad: true);
+    }
+}

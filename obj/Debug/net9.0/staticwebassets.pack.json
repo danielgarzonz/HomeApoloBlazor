@@ -1,0 +1,269 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\app-store.png",
+      "PackagePath": "staticwebassets\\img\\app-store.png"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\google-play.png",
+      "PackagePath": "staticwebassets\\img\\google-play.png"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\heroshot.png",
+      "PackagePath": "staticwebassets\\img\\heroshot.png"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\heroshot2.png",
+      "PackagePath": "staticwebassets\\img\\heroshot2.png"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\iconos\\CFDI-icono.svg",
+      "PackagePath": "staticwebassets\\img\\iconos\\CFDI-icono.svg"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\iconos\\Calculadora icono.svg",
+      "PackagePath": "staticwebassets\\img\\iconos\\Calculadora icono.svg"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\iconos\\Group 57.svg",
+      "PackagePath": "staticwebassets\\img\\iconos\\Group 57.svg"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\iconos\\Servicio-icono.svg",
+      "PackagePath": "staticwebassets\\img\\iconos\\Servicio-icono.svg"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\iconos\\Time building-icono.svg",
+      "PackagePath": "staticwebassets\\img\\iconos\\Time building-icono.svg"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\iconos\\icono-alertas.svg",
+      "PackagePath": "staticwebassets\\img\\iconos\\icono-alertas.svg"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\iconos\\icono-colombia.svg",
+      "PackagePath": "staticwebassets\\img\\iconos\\icono-colombia.svg"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\iconos\\icono-eua.svg",
+      "PackagePath": "staticwebassets\\img\\iconos\\icono-eua.svg"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\iconos\\icono-facebook.svg",
+      "PackagePath": "staticwebassets\\img\\iconos\\icono-facebook.svg"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\iconos\\icono-financiero.svg",
+      "PackagePath": "staticwebassets\\img\\iconos\\icono-financiero.svg"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\iconos\\icono-instagram.svg",
+      "PackagePath": "staticwebassets\\img\\iconos\\icono-instagram.svg"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\iconos\\icono-krypto.svg",
+      "PackagePath": "staticwebassets\\img\\iconos\\icono-krypto.svg"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\iconos\\icono-linkedin.svg",
+      "PackagePath": "staticwebassets\\img\\iconos\\icono-linkedin.svg"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\iconos\\icono-marketplace.svg",
+      "PackagePath": "staticwebassets\\img\\iconos\\icono-marketplace.svg"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\iconos\\icono-mexico.svg",
+      "PackagePath": "staticwebassets\\img\\iconos\\icono-mexico.svg"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\iconos\\icono-retroactiva.svg",
+      "PackagePath": "staticwebassets\\img\\iconos\\icono-retroactiva.svg"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\iconos\\icono-whatsapp.svg",
+      "PackagePath": "staticwebassets\\img\\iconos\\icono-whatsapp.svg"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\iconos\\icono-x.svg",
+      "PackagePath": "staticwebassets\\img\\iconos\\icono-x.svg"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\iconos\\icono-youtube.svg",
+      "PackagePath": "staticwebassets\\img\\iconos\\icono-youtube.svg"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\img-inicial.jpg",
+      "PackagePath": "staticwebassets\\img\\img-inicial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\logoPrincipalBlanco.png",
+      "PackagePath": "staticwebassets\\img\\logoPrincipalBlanco.png"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\logos\\0.png",
+      "PackagePath": "staticwebassets\\img\\logos\\0.png"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\logos\\1.png",
+      "PackagePath": "staticwebassets\\img\\logos\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\logos\\2.png",
+      "PackagePath": "staticwebassets\\img\\logos\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\logos\\3.png",
+      "PackagePath": "staticwebassets\\img\\logos\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\logos\\4.png",
+      "PackagePath": "staticwebassets\\img\\logos\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\logos\\5.png",
+      "PackagePath": "staticwebassets\\img\\logos\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\logos\\6.png",
+      "PackagePath": "staticwebassets\\img\\logos\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\logos\\7.png",
+      "PackagePath": "staticwebassets\\img\\logos\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\logos\\8.png",
+      "PackagePath": "staticwebassets\\img\\logos\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\logos\\9.png",
+      "PackagePath": "staticwebassets\\img\\logos\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\logos\\Chedraui.svg",
+      "PackagePath": "staticwebassets\\img\\logos\\Chedraui.svg"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\logos\\Grupo.png",
+      "PackagePath": "staticwebassets\\img\\logos\\Grupo.png"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\servicios\\alertas-img.png",
+      "PackagePath": "staticwebassets\\img\\servicios\\alertas-img.png"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\servicios\\busquedas-retroactivas.png",
+      "PackagePath": "staticwebassets\\img\\servicios\\busquedas-retroactivas.png"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\servicios\\heroshot-g.png",
+      "PackagePath": "staticwebassets\\img\\servicios\\heroshot-g.png"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\servicios\\heroshot-mobile.png",
+      "PackagePath": "staticwebassets\\img\\servicios\\heroshot-mobile.png"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\servicios\\reporteF.png",
+      "PackagePath": "staticwebassets\\img\\servicios\\reporteF.png"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\servicios\\reportek.png",
+      "PackagePath": "staticwebassets\\img\\servicios\\reportek.png"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\servicios\\reportes-financieros.png",
+      "PackagePath": "staticwebassets\\img\\servicios\\reportes-financieros.png"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\servicios\\reportes-krypto.png",
+      "PackagePath": "staticwebassets\\img\\servicios\\reportes-krypto.png"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\servicios\\retroactivas.png",
+      "PackagePath": "staticwebassets\\img\\servicios\\retroactivas.png"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\servicios\\telefono.png",
+      "PackagePath": "staticwebassets\\img\\servicios\\telefono.png"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\solapolo-back.png",
+      "PackagePath": "staticwebassets\\img\\solapolo-back.png"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\js\\animaciones.js",
+      "PackagePath": "staticwebassets\\js\\animaciones.js"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\testimonial\\img\\Chedraui.svg",
+      "PackagePath": "staticwebassets\\testimonial\\img\\Chedraui.svg"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\testimonial\\img\\Grupo.png",
+      "PackagePath": "staticwebassets\\testimonial\\img\\Grupo.png"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\testimonial\\img\\logo-col-cinepolis.png",
+      "PackagePath": "staticwebassets\\testimonial\\img\\logo-col-cinepolis.png"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\testimonial\\img\\logo-col-quant.png",
+      "PackagePath": "staticwebassets\\testimonial\\img\\logo-col-quant.png"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\testimonial\\img\\logo-col-walmart.png",
+      "PackagePath": "staticwebassets\\testimonial\\img\\logo-col-walmart.png"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.ApoloHome.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.ApoloHome.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.ApoloHome.props",
+      "PackagePath": "build\\ApoloHome.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.ApoloHome.props",
+      "PackagePath": "buildMultiTargeting\\ApoloHome.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.ApoloHome.props",
+      "PackagePath": "buildTransitive\\ApoloHome.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

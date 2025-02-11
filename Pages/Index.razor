@@ -1,0 +1,453 @@
+@using ApoloHome.Pages
+@page "/"
+
+<!--Seccion Portada-->
+<section class="portada-principal">
+    <div class="container portada-principal-content">
+        <div class="row">
+            <div class="col-lg-5 col-md-8">
+                <h1 class="text-white">
+                    Transformamos datos en decisiones inteligentes
+                </h1>
+                <p class="parrafo-m txt-color-p1 mb-5">
+                    En Apolo Service, simplificamos lo complejo. Nuestro compromiso es ofrecerte soluciones
+                    tecnológicas que potencian la eficiencia, minimizan los riesgos y maximizan el impacto
+                    de cada decisión en tu empresa.
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<div class="content">
+    <!--Sección de Servicios-->
+    <section id="servicios">
+        <div class="container position-relative z-1 text-center mb-5">
+            <h1 class="mb-5">¿Listo para dar el siguiente paso?</h1>
+            <!--Listado de opciones-->
+            <div class="container-tabs mb-3">
+                <ul class="nav justify-content-around" role="tablist">
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link active link-apolo" id="pills-retroactivas-tab" data-bs-toggle="pill"
+                                data-bs-target="#pills-retroactivas" type="button" role="tab"
+                                aria-controls="pills-retroactivas" aria-selected="false">
+                            Búsquedas Retroactivas
+                        </button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link link-apolo" id="pills-alertas-tab" data-bs-toggle="pill"
+                                data-bs-target="#pills-alertas" type="button" role="tab" aria-controls="pills-alertas"
+                                aria-selected="true">
+                            Alertas Apolo
+                        </button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link link-apolo" id="pills-krypto-tab" data-bs-toggle="pill"
+                                data-bs-target="#pills-krypto" type="button" role="tab"
+                                aria-controls="pills-krypto" aria-selected="false">
+                            Reportes Krypto
+                        </button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link link-apolo" id="pills-mk-tab" data-bs-toggle="pill"
+                                data-bs-target="#pills-mk" type="button" role="tab"
+                                aria-controls="pills-mk" aria-selected="false">
+                            Market Place
+                        </button>
+                    </li>
+                </ul>
+            </div>
+
+            <!--contendor que muestra la información de cada opción-->
+            <div class="tab-content container-tab p-3">
+                <!--Retroactivas Apolo-->
+                <div class="tab-pane fade show active" id="pills-retroactivas" role="tabpanel" aria-labelledby="pills-retroactivas-tab" tabindex="0">
+                    <div class="row">
+                        <div class="col-md-6 p-4 container-i-s">
+                            <div class="d-flex">
+                                <img class="icono-serv mb-3" src="img/iconos/icono-retroactiva.svg">
+                                <h4 class="mb-2">Busquedas Retroactivas</h4>
+                            </div>
+                            
+                            <p class="mb-4">
+                                <b>Todo lo que necesitas saber, al alcance de un clic.</b>
+                            </p>
+                            <p>
+                                ¿Buscas un panorama completo sobre una empresa o persona? En minutos te
+                                entregamos un informe detallado que cubre aspectos legales, judiciales,
+                                reputacionales y administrativos.
+                            </p>
+                        </div>
+                        <div class="col-md-6 center-bottom">
+                            <img src="img/retroactivas.png" alt="Imagen del celular" class="img-fluid">
+                        </div>
+                        <div class="col-md-12 p-4 d-flex">
+                            <NavLink class="btn btn-apolo-y shadow mt-3" href=@(Locale+"/nuevohome/servicioretroactivas")>Conocer más</NavLink>
+                        </div>
+                    </div>
+                </div>
+
+                <!--Alertas Apolo-->
+                <div class="tab-pane fade" id="pills-alertas" role="tabpanel" aria-labelledby="pills-alertas-tab" tabindex="0">
+                    <div class="row">
+                        <div class="col-md-6 p-4 container-i-s">
+                            <div class="d-flex">
+                                <img class="icono-serv mb-3" src="img/iconos/icono-alertas.svg">
+                                <h4 class="mb-2">Alertas Apolo</h4>
+                            </div>
+                            <p>
+                                Alertas Apolo es una herramienta de monitoreo en tiempo real que proporciona información clave sobre publicaciones legales, judiciales, fiscales, administrativas, gubernamentales y mediáticas, relacionadas con personas físicas o morales. Con cobertura de más de 500 fuentes a nivel internacional, federal, estatal y local, incluyendo boletines judiciales, registros oficiales y listas de sanciones, ofrecemos una respuesta inmediata ante eventos que puedan impactar a su organización. Esta plataforma es el aliado ideal para empresas, despachos y corporativos, brindando seguridad, transparencia y la información necesaria para tomar decisiones bien fundamentadas y mitigar riesgos en cualquier industria.
+                            </p>
+                        </div>
+                        <div class="col-md-6 center-bottom">
+                            <img src="img/alertas-img.png" class="img-service move-zoom" alt="Imagen del celular">
+                        </div>
+                        <div class="col-md-12 p-4 d-flex">
+                            <NavLink class="btn btn-apolo-y shadow mt-3" href=@(Locale+"/nuevohome/servicioalertasapolo")>Conocer más</NavLink>
+                        </div>
+                    </div>
+                </div>
+
+                <!--Reportes Krypto-->
+                <div class="tab-pane fade" id="pills-krypto" role="tabpanel" aria-labelledby="pills-krypto-tab" tabindex="0">
+                    <div class="row">
+                        <div class="col-md-6 p-4 container-i-s">
+                            <div class="d-flex">
+                                <img class="icono-serv mb-3" src="img/iconos/icono-krypto.svg">
+                                <h4 class="mb-3 mb-3">Reportes Krypto</h4>
+                            </div>
+                            
+                            <p class="mb-4">
+                                La información más completa sobre empresas.
+                            </p>
+                            <p>
+                                Desde su constitución y socios hasta su reputación en el mercado, el Reporte
+                                Krypto te da una visión integral para tomar decisiones inteligentes y seguras.
+                            </p>
+                        </div>
+                        <div class="col-md-6 center-bottom">
+                            <img src="img/reportek.png" alt="Imagen del celular" class="img-fluid">
+                        </div>
+                        <div class="col-md-12 p-4 d-flex">
+                            <NavLink class="btn btn-apolo-y shadow mt-3" href=@(Locale+"/nuevohome/servicioreporteskrypto")>Conocer más</NavLink>
+                        </div>
+                    </div>
+                </div>
+
+                <!--MarketPlace-->
+                <div class="tab-pane fade" id="pills-mk" role="tabpanel" aria-labelledby="pills-mk-tab" tabindex="0">
+                    <div class="row">
+                        <div class="col-md-6 p-4 container-i-s">
+                            <div class="d-flex">
+                                <img class="icono-serv mb-3" src="img/iconos/icono-marketplace.svg">
+                                <h4 class="mb-2">Market Place</h4>
+                            </div>
+                            
+                            <p class="mb-4">
+                                Decisiones estratégicas con datos confiables.
+                            </p>
+                            <p>
+                                Accede a un análisis financiero profundo que abarca hasta 5 años de actividad,
+                                diseñado para proporcionarte información clave sobre la salud económica de
+                                cualquier organización.
+                            </p>
+                        </div>
+                        <div class="col-md-6 center-bottom">
+                            <img src="img/reporteF.png" alt="Imagen del celular" class="img-fluid">
+                        </div>
+                        <div class="col-md-12 p-4 d-flex">
+                            <NavLink class="btn btn-apolo-y shadow mt-3" href=@(Locale+"/nuevohome/servicioreportesfinancieros")>Conocer más</NavLink>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="container container-parallax">
+            <img class="img-flex bg-sol-t h-parallax" data-speed="0.5" src="img/solapolo-back.png">
+            <div class="row">
+                <div class="col-lg-6 col-md-12">
+                    <h1 class="mb-4">Innovación con propósito</h1>
+                    <p>
+                        Somos más que una legaltech: somos tus aliados estratégicos. En Apolo Service nos
+                        dedicamos a crear herramientas que simplifican procesos legales, financieros y
+                        administrativos, transformando la manera en que las empresas gestionan información
+                        crítica.
+                    </p>
+
+                    <p>
+                        Nuestro impacto se extiende a múltiples áreas de tu empresa, incluyendo Legal,
+                        Compras, Recursos Humanos, Crédito, Operaciones, Finanzas y muchas más. Sabemos que
+                        cada departamento tiene retos únicos, por lo que nuestras soluciones están diseñadas
+                        para adaptarse a tus necesidades, garantizando confianza, transparencia y
+                        resultados.
+                    </p>
+
+                    <p class="subtitle"><b>Tu éxito es nuestra prioridad.</b></p>
+                </div>
+                <div class="col-lg-6">
+                    <img src="img/heroshot-mobile.png" alt="Imagen del celular" class="img-flex move-left">
+                </div>
+            </div>
+        </div>
+
+    </section>
+
+    <!--Sección de Clientes-->
+    <section class="logos" id="clientes">
+        <div class="slider">
+            <div class="slide-track">
+                <div class="slide">
+                    <img src="img/logos/0.png" alt="">
+                </div>
+                <div class="slide">
+                    <img src="img/logos/1.png" alt="">
+                </div>
+                <div class="slide">
+                    <img src="img/logos/2.png" alt="">
+                </div>
+                <div class="slide">
+                    <img src="img/logos/3.png" alt="">
+                </div>
+                <div class="slide">
+                    <img src="img/logos/4.png" alt="">
+                </div>
+                <div class="slide">
+                    <img src="img/logos/5.png" alt="">
+                </div>
+                <div class="slide">
+                    <img src="img/logos/6.png" alt="">
+                </div>
+                <div class="slide">
+                    <img src="img/logos/7.png" alt="">
+                </div>
+                <div class="slide">
+                    <img src="img/logos/8.png" alt="">
+                </div>
+                <div class="slide">
+                    <img src="img/logos/9.png" alt="">
+                </div>
+                <div class="slide">
+                    <img src="img/logos/0.png" alt="">
+                </div>
+                <div class="slide">
+                    <img src="img/logos/1.png" alt="">
+                </div>
+                <div class="slide">
+                    <img src="img/logos/2.png" alt="">
+                </div>
+                <div class="slide">
+                    <img src="img/logos/3.png" alt="">
+                </div>
+                <div class="slide">
+                    <img src="img/logos/4.png" alt="">
+                </div>
+                <div class="slide">
+                    <img src="img/logos/5.png" alt="">
+                </div>
+                <div class="slide">
+                    <img src="img/logos/6.png" alt="">
+                </div>
+                <div class="slide">
+                    <img src="img/logos/7.png" alt="">
+                </div>
+                <div class="slide">
+                    <img src="img/logos/8.png" alt="">
+                </div>
+                <div class="slide">
+                    <img src="img/logos/9.png" alt="">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!--Sección de Oferta de valor-->
+    <section class="heroshot" id="propuesta-valor">
+        <div class="container container-parallax">
+            <h1 class="text-center mb-4">Confianza respaldada con resultados</h1>
+            <div id="textCarousel" class="carousel" data-bs-ride="carousel">
+                <div class="carousel-inner">
+
+                    <div class="carousel-item active">
+                        <div class="d-flex justify-content-center align-items-center flex-column text-center">
+                            <div class="container-testimonial">
+                                <p class="mb-0 subtitle"><b>Pablo Aguilar Albo</b></p>
+                                <p class="subtitle">General Counsel</p>
+                                <p class="comentario-testimonio">
+                                    Con Alertas Apolo mi equipo detectó temas legales que desconocíamos, lo que
+                                    nos
+                                    permitió atender a tiempo dichos incidentes y evitar así contingencias
+                                    futuras.
+                                </p>
+                            </div>
+                            <img width="100" class="" src="testimonial/img/logo-col-cinepolis.png">
+                        </div>
+                    </div>
+
+                    <div class="carousel-item">
+                        <div class="d-flex justify-content-center align-items-center flex-column text-center">
+                            <div class="container-testimonial">
+                                <p class="mb-0 subtitle"><b>Luis Antonio Sanchez Grande</b></p>
+                                <p class="subtitle">Area Jurídica</p>
+                                <p class="comentario-testimonio">
+                                    Estamos muy contentos con el uso de Marketplace de Apoto Service, facilitan
+                                    mucho el cumplimiento de fechas y entrega de trámites acortando mucho los
+                                    tiempos de espera ...
+                                </p>
+                            </div>
+                            <img width="100" src="testimonial/img/logo-col-walmart.png">
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="d-flex justify-content-center align-items-center flex-column text-center">
+                            <div class="container-testimonial">
+                                <p class="mb-0 subtitle"><b>Marco Cervantes Salas</b></p>
+                                <p class="subtitle">Head of Consulting</p>
+                                <p class="comentario-testimonio">
+                                    Mi experiencia con la plataforma ha sido realmente positiva. Nos ha permitido detectar alertas de riesgos legales y mediáticos en tiempo real, lo cual ha sido clave para prevenir y mitigar riesgos de manera proactiva. Gracias a esto, hemos logrado reducir significativamente nuestro riesgo final mediante estrategias bien fundamentadas.
+                                </p>
+                            </div>
+                            <img width="100" src="testimonial/img/Grupo.png">
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="d-flex justify-content-center align-items-center flex-column text-center">
+                            <div class="container-testimonial">
+                                <p class="mb-0 subtitle"><b>Héctor Alfonso Marroquín Flores</b></p>
+                                <p class="subtitle">Gerente de Relaciones Laborales</p>
+                                <p class="comentario-testimonio">
+                                    Las herramientas que Apolo nos brinda han mejorado el monitoreo de los temas legales de la compañía, ayudando a prevenir riesgos de manera más eficiente y productiva.
+                                </p>
+                            </div>
+                            <img width="100" src="testimonial/img/Chedraui.svg">
+                        </div>
+                    </div>
+                </div>
+
+                <div class="carousel-indicators">
+                    <button type="button" data-bs-target="#textCarousel" data-bs-slide-to="0" class="active"
+                            aria-current="true" aria-label="Slide 1">
+                        <i class="bi bi-circle-fill"></i>
+                    </button>
+                    <button type="button" data-bs-target="#textCarousel" data-bs-slide-to="1"
+                            aria-label="Slide 2">
+                        <i class="bi bi-circle-fill"></i>
+                    </button>
+                    <button type="button" data-bs-target="#textCarousel" data-bs-slide-to="2"
+                            aria-label="Slide 3">
+                        <i class="bi bi-circle-fill"></i>
+                    </button>
+                    <button type="button" data-bs-target="#textCarousel" data-bs-slide-to="3"
+                            aria-label="Slide 4">
+                        <i class="bi bi-circle-fill"></i>
+                    </button>
+                </div>
+
+                <button class="carousel-control-prev" type="button" data-bs-target="#textCarousel"
+                        data-bs-slide="prev">
+                    <i class="bi bi-arrow-left icon-circle" aria-hidden="true"></i>
+                </button>
+
+                <button class="carousel-control-next" type="button" data-bs-target="#textCarousel"
+                        data-bs-slide="next">
+                    <i class="bi bi-arrow-right icon-circle" aria-hidden="true"></i>
+                </button>
+            </div>
+            <img class="img-flex bg-sol-b h-parallax" data-speed="0.3" src="img/solapolo-back.png">
+
+        </div>
+
+    </section>
+
+    <!--Sección de info banner-->
+    <section class="bg-apolo-blue" id="info-banner">
+        <div class="container">
+            <div class="row justify-content-center align-items-center">
+                <div class="col-md-12 text-center">
+                    <h1 class="text-white mb-3">
+                        Hablemos de cómo podemos ayudarte
+                    </h1>
+                    <p class="text-white">
+                        En Apolo Service no solo hablamos de soluciones, las entregamos. Nuestro equipo combina
+                        experiencia, tecnología de vanguardia y un enfoque humano para garantizar que cada
+                        servicio sea una pieza clave en tu empresa.
+                    </p>
+                    <NavLink class="btn shadow mt-3 btn-apolo-y" href="@($"/{Locale}/nuevohome/servicioalertasapolo")">Conocer más</NavLink>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!--Sección de descarga de app-->
+    <section id="descarga-app">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-6">
+                    <img src="img/telefono.png" alt="Imagen del celular" class="img-flex move-zoom">
+                </div>
+                <div class="col-xl-6 txt-centrado-xy">
+                    <h1 class="">
+                        Tu <span>radar personalizado</span> para detectar riesgos antes de que sucedan.
+                    </h1>
+                    <p class="mb-5">
+                        Con Alertas Apolo monitoreamos constantemente más de 500 publicaciones legales,
+                        judiciales, administrativas y mediáticas, para ofrecerte información en tiempo
+                        real que te permite anticiparte a cualquier contingencia.
+                    </p>
+                    <div class="img-apps">
+                        <a href="https://apoloservice.com/shareapp" target="_blank">
+                            <img src="img/google-play.png" class="me-3" width="130" alt="Imagen del celular">
+                        </a>
+                        <a href="https://apoloservice.com/shareapp" target="_blank">
+                            <img src="img/app-store.png" width="130" alt="Imagen del celular">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!--Sección de Ubicacion-->
+    <section class="py-5 bg-light position-relative z-1" id="mapa-apolo">
+        <div class="container">
+            <h1 class="text-center mb-4">Contáctanos</h1>
+            <div class="row text-center bg-apolo-blue text-white rounded mb-0">
+                <!-- Dirección -->
+                <div class="col-md-4 p-3">
+                    <div class="contact-card w-100">
+                        <i class="bi bi-geo-alt-fill fs-3"></i>
+                        <p class="mt-2 mb-0 subtitle">
+                            Calle Séneca No. 134, Col. Palmas Polanco, Del. Miguel Hidalgo, CP
+                            11560, CDMX
+                        </p>
+                    </div>
+                </div>
+                <!-- Teléfono -->
+                <div class="col-md-4 p-3">
+                    <div class="contact-card h-100">
+                        <i class="bi bi-phone fs-3"></i>
+                        <p class="mt-2 mb-0 subtitle">+52 (55) 52590798</p>
+                    </div>
+                </div>
+                <!-- Email -->
+                <div class="col-md-4 p-3">
+                    <div class="contact-card h-100">
+                        <i class="bi bi-envelope-fill fs-3"></i>
+                        <p class="mt-2 mb-0 subtitle">contacto@apoloservice.com</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row justify-content-center text-white rounded">
+                <div class="col-md-10 mb-3 mt-0">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.427438549306!2d-99.20483292393057!3d19.437129481843225!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d2021b4100064b%3A0xa601c792362c554f!2sS%C3%A9neca%20134%2C%20Polanco%2C%20Polanco%20II%20Secc%2C%20Miguel%20Hidalgo%2C%2011530%20Ciudad%20de%20M%C3%A9xico%2C%20CDMX!5e0!3m2!1ses-419!2smx!4v1735335326167!5m2!1ses-419!2smx"
+                            width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy"
+                            referrerpolicy="no-referrer-when-downgrade">
+                    </iframe>
+                </div>
+            </div>
+            <div class="text-center mt-4">
+                <NavLink class="btn btn-apolo-y rounded-pill px-4 py-2 mt-3" href="@($"/{Locale}/nuevohome/contacto")">Contáctanos</NavLink>
+            </div>
+        </div>
+    </section>
+</div>
