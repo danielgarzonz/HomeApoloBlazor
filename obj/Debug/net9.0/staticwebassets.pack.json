@@ -45,20 +45,16 @@
       "PackagePath": "staticwebassets\\img\\iconos\\Group 57.svg"
     },
     {
-      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\iconos\\Servicio-icono.svg",
-      "PackagePath": "staticwebassets\\img\\iconos\\Servicio-icono.svg"
-    },
-    {
-      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\iconos\\Time building-icono.svg",
-      "PackagePath": "staticwebassets\\img\\iconos\\Time building-icono.svg"
-    },
-    {
       "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\iconos\\icono-alertas.svg",
       "PackagePath": "staticwebassets\\img\\iconos\\icono-alertas.svg"
     },
     {
       "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\iconos\\icono-colombia.svg",
       "PackagePath": "staticwebassets\\img\\iconos\\icono-colombia.svg"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\iconos\\icono-crm.svg",
+      "PackagePath": "staticwebassets\\img\\iconos\\icono-crm.svg"
     },
     {
       "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\iconos\\icono-eua.svg",
@@ -81,6 +77,10 @@
       "PackagePath": "staticwebassets\\img\\iconos\\icono-krypto.svg"
     },
     {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\iconos\\icono-leyes.svg",
+      "PackagePath": "staticwebassets\\img\\iconos\\icono-leyes.svg"
+    },
+    {
       "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\iconos\\icono-linkedin.svg",
       "PackagePath": "staticwebassets\\img\\iconos\\icono-linkedin.svg"
     },
@@ -95,6 +95,14 @@
     {
       "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\iconos\\icono-retroactiva.svg",
       "PackagePath": "staticwebassets\\img\\iconos\\icono-retroactiva.svg"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\iconos\\icono-servicio.svg",
+      "PackagePath": "staticwebassets\\img\\iconos\\icono-servicio.svg"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\iconos\\icono-timebilling.svg",
+      "PackagePath": "staticwebassets\\img\\iconos\\icono-timebilling.svg"
     },
     {
       "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\iconos\\icono-whatsapp.svg",
@@ -173,10 +181,6 @@
       "PackagePath": "staticwebassets\\img\\servicios\\alertas-img.png"
     },
     {
-      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\servicios\\busquedas-retroactivas.png",
-      "PackagePath": "staticwebassets\\img\\servicios\\busquedas-retroactivas.png"
-    },
-    {
       "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\servicios\\heroshot-g.png",
       "PackagePath": "staticwebassets\\img\\servicios\\heroshot-g.png"
     },
@@ -203,6 +207,34 @@
     {
       "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\servicios\\retroactivas.png",
       "PackagePath": "staticwebassets\\img\\servicios\\retroactivas.png"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\servicios\\servicio-alertas.png",
+      "PackagePath": "staticwebassets\\img\\servicios\\servicio-alertas.png"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\servicios\\servicio-crm.png",
+      "PackagePath": "staticwebassets\\img\\servicios\\servicio-crm.png"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\servicios\\servicio-krypto.png",
+      "PackagePath": "staticwebassets\\img\\servicios\\servicio-krypto.png"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\servicios\\servicio-leyes.png",
+      "PackagePath": "staticwebassets\\img\\servicios\\servicio-leyes.png"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\servicios\\servicio-mk.png",
+      "PackagePath": "staticwebassets\\img\\servicios\\servicio-mk.png"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\servicios\\servicio-retroactivas.png",
+      "PackagePath": "staticwebassets\\img\\servicios\\servicio-retroactivas.png"
+    },
+    {
+      "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\servicios\\servicio-timebilling.png",
+      "PackagePath": "staticwebassets\\img\\servicios\\servicio-timebilling.png"
     },
     {
       "Id": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\servicios\\telefono.png",

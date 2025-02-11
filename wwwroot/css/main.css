@@ -1,7 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap');
+
 body {
-    font-family: 'Titillium Web', Titilium, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+    font-family: 'Titillium Web', Titilium, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding: 0;
     margin: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 600 !important;
+}
+
+.dropdown-menu {
+    backdrop-filter: blur(10px);
+    border: none !important;
+    border-radius: 20px !important;
+    background: #f2f2f2 !important;
 }
 
 main {
@@ -157,7 +175,7 @@ p {
     background-image: url(img/bg-testimonios.png);
 }
 
-.bg-apolo-blue a {
+.bg-apolo-blue{
     color: #ffffff;
     text-decoration: none !important;
 }
@@ -169,7 +187,7 @@ p {
 
 a {
     color: #107FC9;
-    text-decoration: none;
+    text-decoration: none!important;
 }
 
 li a:hover {
@@ -195,13 +213,12 @@ a.btn {
 
 a.btn-menu {
     display: inline-block;
-    padding: 7px;
+    padding: 7px 15px;
     text-align: center;
     cursor: pointer;
     -moz-user-select: none;
     border-radius: 20px;
     transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
-    text-decoration: none;
 }
 
 .bg-apolo-blue,
@@ -265,7 +282,6 @@ a.btn-menu {
         background-color: #ffffff !important;
     }
 
-li a,
 .btn-apolo-gray,
 .btn-apolo-blue,
 .btn-apolo-y,
@@ -479,6 +495,7 @@ header {
     /*se activa este para dejar el texto en una sola linea*/
     padding: 10px 30px !important;
     max-width: 150px;
+    height: 100%;
     line-height: 1;
     border-radius: 30px !important;
 }
@@ -536,7 +553,7 @@ header {
     -moz-box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.5);
 }
 
-/* Contenedor que tendr� toda la informaci�n de la web, excepto nav, portada y footer*/
+/* Contenedor que tendrá toda la información de la web, excepto nav, portada y footer*/
 .content {
     background-color: #ffffff;
     border-radius: 30px 30px 0px 0px;
@@ -928,15 +945,15 @@ footer {
     height: 30px;
     margin-left: 10px;
     filter: invert();
-    padding-bottom: 3px;
-    transition: 1s;
-    border-bottom: solid 1px #00000000;
+    transition: 0.5s;
+    margin-top: 5px;
 }
 
     .social-icons img:hover {
-        border-bottom: solid 1px #333333;
-        padding-bottom: 3px;
-        transition: 1s;
+        margin-bottom: 5px;
+        transition: 0.5s;
+        opacity: 0.5;
+        margin-top: 0px;
     }
 
 .legales {
@@ -1071,6 +1088,21 @@ footer {
 
 @media screen and (max-width: 992px) {
 
+    .nav-item {
+        font-weight: 600;
+        text-align: end;
+        font-size: 20px;
+    }
+
+    .dropdown-menu {
+        text-align: end !important;
+    }
+
+    a.btn-menu {
+        padding: 7px 30px;
+        width: 200px;
+    }
+
     #nav-apolo {
         width: 90%;
     }
@@ -1121,7 +1153,7 @@ footer {
 }
 
 @media screen and (max-width: 576px) {
-    h1,
+/*    h1,
     h2,
     h3,
     h4,
@@ -1132,17 +1164,13 @@ footer {
     .img-apps,
     .container-i-s {
         text-align: center;
-    }
-
+    }*/
+/*
     p {
         text-align: justify;
-    }
+    }*/
 
-        p.subtitle-dato {
-            text-align: center !important;
-        }
-
-    .btn {
-        width: 100%;
+    .btn-apolo-y {
+        width: 100% !important;
     }
 }

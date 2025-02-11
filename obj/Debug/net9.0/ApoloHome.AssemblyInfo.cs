@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApoloHome")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51b26e9ef17eacdee17f902c9a4a7b179b379366")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApoloHome")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApoloHome")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
