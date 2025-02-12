@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "7E19uxAKt3aATiW4Uea636hpGBMGVhxlSkHSoA2nu6M=",
+  "Hash": "cPhKI4u9cJg4t7uwoYP/BRYd4DPCDX5zv2wLRr7RzHg=",
   "Source": "ApoloHome",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "uuqpg30d9f",
-      "Integrity": "NpAay4ga0N9Ozsz45odnp+Uwy3LRziaBY8vmqqCZ8X0=",
+      "Fingerprint": "ypdpryl93u",
+      "Integrity": "tmRXMOzqpmkoSi6ucczUh6mX+86MLOKxi+mdoOaboP0=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\ApoloHome.pdb"
@@ -52,8 +52,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "a4e77ymrns",
-      "Integrity": "xm2q4HmKMdajgGESVxgQwOUKSvXTljdWOs9MTkMyzqw=",
+      "Fingerprint": "zthre4fi4r",
+      "Integrity": "B2E39ah5GWsp1D9IF4tKDvVCs2ord+QSlX+j51xgXPs=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\webcil\\ApoloHome.wasm"
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "xcnok71o3l",
-      "Integrity": "v1NHLjPnG2iOGP6QiEkRxGSl8HvotUVqKST4Rec2uiI=",
+      "Fingerprint": "yfn67iukjc",
+      "Integrity": "LosrJnPlx3NtRKP/hqBrX9aGgyr/by4K7z6/DzbGgEE=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\blazor.boot.json"
@@ -115,11 +115,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "native",
-      "Fingerprint": "o1flzbn3wd",
-      "Integrity": "lIFBSyH5fOmCyz9NzfVceXU09qRLS0mn0JZG0tuYWBo=",
+      "Fingerprint": "aqp76xwkzt",
+      "Integrity": "/pcrNUZIFxvVrfML8zazMdEZ+IB0TdSKqJ6mAPvV+w4=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\DaniG\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\9.0.1\\runtimes\\browser-wasm\\native\\dotnet.js"
+      "OriginalItemSpec": "C:\\Users\\DaniG\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\9.0.2\\runtimes\\browser-wasm\\native\\dotnet.js"
     },
     {
       "Identity": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dotnet.js.map",
@@ -136,11 +136,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "m27we6zftd",
-      "Integrity": "zoGTv1THI1ohU8YlTf4/31t+nriX3EIuBnVSnf1wrXY=",
+      "Fingerprint": "3xmhzkst62",
+      "Integrity": "uZ78dzkpKpqOOREKMu96HZuyG1XQJN8TJtajfR7vh7I=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\DaniG\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\9.0.1\\runtimes\\browser-wasm\\native\\dotnet.js.map"
+      "OriginalItemSpec": "C:\\Users\\DaniG\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\9.0.2\\runtimes\\browser-wasm\\native\\dotnet.js.map"
     },
     {
       "Identity": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dotnet.native.js",
@@ -157,11 +157,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "native",
-      "Fingerprint": "8o8n7iomrf",
-      "Integrity": "WIUiy49hHQ3kOAtRdCtUzm3Yg5BnOqCC+Q+kri9Fi1g=",
+      "Fingerprint": "8bti36lthm",
+      "Integrity": "HFADmT26AarHu4tMjFaTPxINmQjBJGtdPN+CKjtNMFE=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\DaniG\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\9.0.1\\runtimes\\browser-wasm\\native\\dotnet.native.js"
+      "OriginalItemSpec": "C:\\Users\\DaniG\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\9.0.2\\runtimes\\browser-wasm\\native\\dotnet.native.js"
     },
     {
       "Identity": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dotnet.native.wasm",
@@ -178,11 +178,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "native",
-      "Fingerprint": "aep4lch3d1",
-      "Integrity": "bvHGVH9zAMOjdIvgvRKP4Bg793vWpedEYSWg32uUr3o=",
+      "Fingerprint": "tr0cyonrwt",
+      "Integrity": "F3/BArijJUydqmwcdWeW3LYyYHBRSu2+pyy8GL1jTV0=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\DaniG\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\9.0.1\\runtimes\\browser-wasm\\native\\dotnet.native.wasm"
+      "OriginalItemSpec": "C:\\Users\\DaniG\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\9.0.2\\runtimes\\browser-wasm\\native\\dotnet.native.wasm"
     },
     {
       "Identity": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dotnet.runtime.js",
@@ -199,11 +199,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "native",
-      "Fingerprint": "rubq0v1yiy",
-      "Integrity": "gypqZnsxxUh4y4EJmawvOCaX4hoTaesVGwIgWXwZcNw=",
+      "Fingerprint": "tsg4gsv2hg",
+      "Integrity": "82FoDmY+LsehdN2u8aSGEutGEKXJHcYaSX/3zptbsCw=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\DaniG\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\9.0.1\\runtimes\\browser-wasm\\native\\dotnet.runtime.js"
+      "OriginalItemSpec": "C:\\Users\\DaniG\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\9.0.2\\runtimes\\browser-wasm\\native\\dotnet.runtime.js"
     },
     {
       "Identity": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
@@ -220,11 +220,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "tyz1a4w3vb",
-      "Integrity": "q/nr9rL9/qurnmyljWmcv7yStKuvDUHexkNvaRJ3cD0=",
+      "Fingerprint": "680lcgmlbm",
+      "Integrity": "ZmDmkgcXhChDWRHCx3XZMJe7cgx2e4YsJg8qr2YME8Y=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\DaniG\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\9.0.1\\runtimes\\browser-wasm\\native\\dotnet.runtime.js.map"
+      "OriginalItemSpec": "C:\\Users\\DaniG\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\9.0.2\\runtimes\\browser-wasm\\native\\dotnet.runtime.js.map"
     },
     {
       "Identity": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\bin\\Debug\\net9.0\\wwwroot\\_framework\\icudt_CJK.dat",
@@ -245,7 +245,7 @@
       "Integrity": "SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\DaniG\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\9.0.1\\runtimes\\browser-wasm\\native\\icudt_CJK.dat"
+      "OriginalItemSpec": "C:\\Users\\DaniG\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\9.0.2\\runtimes\\browser-wasm\\native\\icudt_CJK.dat"
     },
     {
       "Identity": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\bin\\Debug\\net9.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
@@ -266,7 +266,7 @@
       "Integrity": "8fItetYY8kQ0ww6oxwTLiT3oXlBwHKumbeP2pRF4yTc=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\DaniG\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\9.0.1\\runtimes\\browser-wasm\\native\\icudt_EFIGS.dat"
+      "OriginalItemSpec": "C:\\Users\\DaniG\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\9.0.2\\runtimes\\browser-wasm\\native\\icudt_EFIGS.dat"
     },
     {
       "Identity": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\bin\\Debug\\net9.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
@@ -287,7 +287,7 @@
       "Integrity": "L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\DaniG\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\9.0.1\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
+      "OriginalItemSpec": "C:\\Users\\DaniG\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\9.0.2\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
     },
     {
       "Identity": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.wasm",
@@ -5414,12 +5414,12 @@
       "OriginalItemSpec": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.wasm"
     },
     {
-      "Identity": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\8e13dphyhr-rubq0v1yiy.gz",
+      "Identity": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\8e13dphyhr-tsg4gsv2hg.gz",
       "SourceId": "ApoloHome",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime#[.{fingerprint=rubq0v1yiy}]!.js.gz",
+      "RelativePath": "_framework/dotnet.runtime#[.{fingerprint=tsg4gsv2hg}]!.js.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -5428,8 +5428,8 @@
       "RelatedAsset": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dotnet.runtime.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "c6ul23o5q8",
-      "Integrity": "/IXSJh9TD4vkwB8+rNBVC9vD5dY1awDBCkcsp3U4yqQ=",
+      "Fingerprint": "db3c2rc3ea",
+      "Integrity": "yalQco68p1sKTa06ceVBP+uNtNFlmV4P6+7jG5CwBX4=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dotnet.runtime.js"
@@ -5582,12 +5582,12 @@
       "OriginalItemSpec": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\iconos\\Group 57.svg"
     },
     {
-      "Identity": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\9tufxa5rhn-o1flzbn3wd.gz",
+      "Identity": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\9tufxa5rhn-aqp76xwkzt.gz",
       "SourceId": "ApoloHome",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet#[.{fingerprint=o1flzbn3wd}]?.js.gz",
+      "RelativePath": "_framework/dotnet#[.{fingerprint=aqp76xwkzt}]?.js.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -5596,8 +5596,8 @@
       "RelatedAsset": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dotnet.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ct52dzkgrx",
-      "Integrity": "8GIzXkGZ2yBlcLmdrM9RUuIwSxloTkxj1tKcOckdGx4=",
+      "Fingerprint": "wbbu2hy49a",
+      "Integrity": "3NqnOF0uy592xZsdJ1vf4EcRs9DSfhVmxY/iyjD0CnE=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dotnet.js"
@@ -6212,12 +6212,12 @@
       "OriginalItemSpec": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\sample-data\\weather.json"
     },
     {
-      "Identity": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\f85v4tfqwr-m27we6zftd.gz",
+      "Identity": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\f85v4tfqwr-3xmhzkst62.gz",
       "SourceId": "ApoloHome",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.js#[.{fingerprint=m27we6zftd}]?.map.gz",
+      "RelativePath": "_framework/dotnet.js#[.{fingerprint=3xmhzkst62}]?.map.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -6226,8 +6226,8 @@
       "RelatedAsset": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dotnet.js.map",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "6xsfm5rx3u",
-      "Integrity": "KjpsACGDvHdNihBawy2WouHERE/xmcIJbXauMseykYg=",
+      "Fingerprint": "f6x4cbur2m",
+      "Integrity": "CUc1TNFAQlebYBT4iccgBFNHtHHMrOwPrfF1pJ1daUI=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dotnet.js.map"
@@ -6254,12 +6254,12 @@
       "OriginalItemSpec": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.ServiceModel.Web.wasm"
     },
     {
-      "Identity": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\fgnwi2usvt-8o8n7iomrf.gz",
+      "Identity": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\fgnwi2usvt-8bti36lthm.gz",
       "SourceId": "ApoloHome",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native#[.{fingerprint=8o8n7iomrf}]!.js.gz",
+      "RelativePath": "_framework/dotnet.native#[.{fingerprint=8bti36lthm}]!.js.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -6268,8 +6268,8 @@
       "RelatedAsset": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dotnet.native.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "d7kyfq1bwa",
-      "Integrity": "yYHRdXG37l58npU27fJg8NF67l5yaGysS102YSV/wBs=",
+      "Fingerprint": "nmdgxwh0ew",
+      "Integrity": "//krJFfmdgV0y430ME/8Tmhc2s6vZUWaVMc9YrFKv4s=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dotnet.native.js"
@@ -6506,12 +6506,12 @@
       "OriginalItemSpec": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Security.Cryptography.Algorithms.wasm"
     },
     {
-      "Identity": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\h7nqfl3oya-tyz1a4w3vb.gz",
+      "Identity": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\h7nqfl3oya-680lcgmlbm.gz",
       "SourceId": "ApoloHome",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.js#[.{fingerprint=tyz1a4w3vb}]?.map.gz",
+      "RelativePath": "_framework/dotnet.runtime.js#[.{fingerprint=680lcgmlbm}]?.map.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -6520,8 +6520,8 @@
       "RelatedAsset": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "36szix68rj",
-      "Integrity": "W095CnQ1EtcmtVYhQNoFPzAtuNhQ2iJhba1K2HBs7bM=",
+      "Fingerprint": "9lrn5x4vt4",
+      "Integrity": "k8s8jb6tnSWBI0Yt8hFJhThWI1Hi7ad/sdZkvDE/K9M=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dotnet.runtime.js.map"
@@ -7871,7 +7871,7 @@
       "OriginalItemSpec": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\img\\iconos\\icono-financiero.svg"
     },
     {
-      "Identity": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\ql3opnoniu-xcnok71o3l.gz",
+      "Identity": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\ql3opnoniu-yfn67iukjc.gz",
       "SourceId": "ApoloHome",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\",
@@ -7885,8 +7885,8 @@
       "RelatedAsset": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "5pqwdjgsg3",
-      "Integrity": "11dlLifwmLfTj1sJRve4FoguXUDkTEGyvkzwjIN0Q6k=",
+      "Fingerprint": "76xhg5181n",
+      "Integrity": "Lxb6Slo+jWdP0w06YWUJfQ1omZW80F1ND/TI11wJT2M=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -8291,12 +8291,12 @@
       "OriginalItemSpec": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Security.Principal.Windows.wasm"
     },
     {
-      "Identity": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\trgu5vl2nl-aep4lch3d1.gz",
+      "Identity": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\trgu5vl2nl-tr0cyonrwt.gz",
       "SourceId": "ApoloHome",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native#[.{fingerprint=aep4lch3d1}]!.wasm.gz",
+      "RelativePath": "_framework/dotnet.native#[.{fingerprint=tr0cyonrwt}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -8305,8 +8305,8 @@
       "RelatedAsset": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dotnet.native.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "0ajwdnh8go",
-      "Integrity": "mCJ7GdUYJckTJP0Uf8ffORFht2sr9ZGjYGpwpuP9K/E=",
+      "Fingerprint": "1np8juqlxr",
+      "Integrity": "M8GzQZCbP/bXuaT4eLxxNBawPlx26jNcuElXasRDdyc=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dotnet.native.wasm"
@@ -8480,12 +8480,12 @@
       "OriginalItemSpec": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Security.Cryptography.OpenSsl.wasm"
     },
     {
-      "Identity": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\v1gkdn5f19-a4e77ymrns.gz",
+      "Identity": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\v1gkdn5f19-zthre4fi4r.gz",
       "SourceId": "ApoloHome",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/ApoloHome#[.{fingerprint=a4e77ymrns}]!.wasm.gz",
+      "RelativePath": "_framework/ApoloHome#[.{fingerprint=zthre4fi4r}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -8494,8 +8494,8 @@
       "RelatedAsset": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ApoloHome.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "3oe2bd7dtc",
-      "Integrity": "w6UVuT4D6LEfqE1sP6vqZ7sYVgRkCd7EhAv61cYvryc=",
+      "Fingerprint": "0lzdz837vk",
+      "Integrity": "nPcPNXfWeDHGFUHma+AD8zwt21Spb+0QjVz9gUT9Iu0=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ApoloHome.wasm"
@@ -8564,12 +8564,12 @@
       "OriginalItemSpec": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Abstractions.wasm"
     },
     {
-      "Identity": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\vo5nvu7ejv-uuqpg30d9f.gz",
+      "Identity": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\vo5nvu7ejv-ypdpryl93u.gz",
       "SourceId": "ApoloHome",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/ApoloHome#[.{fingerprint=uuqpg30d9f}]!.pdb.gz",
+      "RelativePath": "_framework/ApoloHome#[.{fingerprint=ypdpryl93u}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -8578,8 +8578,8 @@
       "RelatedAsset": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ApoloHome.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "gvxmk67x9u",
-      "Integrity": "/HBRXa4YYi0TGUKxUqefoSLI11mGsQUcjKnM7l9cOrk=",
+      "Fingerprint": "te4gkyjpd6",
+      "Integrity": "q7nCGVtt0f2v4zipwleTXGRKEmIdRSNXpzzG1nGWiPQ=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ApoloHome.pdb"
@@ -8984,12 +8984,12 @@
       "OriginalItemSpec": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\bin\\Debug\\net9.0\\wwwroot\\_framework\\WindowsBase.wasm"
     },
     {
-      "Identity": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\yo6dfhb8cm-rbmmv2upm8.gz",
+      "Identity": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\yo6dfhb8cm-urrgspwei1.gz",
       "SourceId": "ApoloHome",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "css/main#[.{fingerprint=rbmmv2upm8}]?.css.gz",
+      "RelativePath": "css/main#[.{fingerprint=urrgspwei1}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -8998,8 +8998,8 @@
       "RelatedAsset": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\css\\main.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "hyo4mabcdz",
-      "Integrity": "p7rUBQ0ssvyRjcugKD5XYpGP/UkzPgAdCiw5drxgPKE=",
+      "Fingerprint": "n6x9qdn682",
+      "Integrity": "wVFEgX8X9dqyaIhZpLmcVCTbRQJF4JFFLDTeRKeh3G0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\css\\main.css"
@@ -9166,8 +9166,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "rbmmv2upm8",
-      "Integrity": "ef6BAd6rgj3lcZc101OR32TUAcbGlswx4hUbqLYvig0=",
+      "Fingerprint": "urrgspwei1",
+      "Integrity": "mhAzU5xCDnIDv39pi25+/pvW5Iau11LIxUcxaLb/hFE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\main.css"
@@ -10582,7 +10582,144 @@
   ],
   "Endpoints": [
     {
-      "Route": "_framework/ApoloHome.a4e77ymrns.wasm",
+      "Route": "_framework/ApoloHome.pdb",
+      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ApoloHome.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "45040"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tmRXMOzqpmkoSi6ucczUh6mX+86MLOKxi+mdoOaboP0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 18:27:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tmRXMOzqpmkoSi6ucczUh6mX+86MLOKxi+mdoOaboP0="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/ApoloHome.pdb",
+      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\vo5nvu7ejv-ypdpryl93u.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000026484454"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37757"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q7nCGVtt0f2v4zipwleTXGRKEmIdRSNXpzzG1nGWiPQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 18:28:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"tmRXMOzqpmkoSi6ucczUh6mX+86MLOKxi+mdoOaboP0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tmRXMOzqpmkoSi6ucczUh6mX+86MLOKxi+mdoOaboP0="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/ApoloHome.pdb.gz",
+      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\vo5nvu7ejv-ypdpryl93u.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37757"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q7nCGVtt0f2v4zipwleTXGRKEmIdRSNXpzzG1nGWiPQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 18:28:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-q7nCGVtt0f2v4zipwleTXGRKEmIdRSNXpzzG1nGWiPQ="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/ApoloHome.wasm",
       "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ApoloHome.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -10592,7 +10729,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "80149"
+          "Value": "108309"
         },
         {
           "Name": "Content-Type",
@@ -10600,40 +10737,32 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"xm2q4HmKMdajgGESVxgQwOUKSvXTljdWOs9MTkMyzqw=\""
+          "Value": "\"B2E39ah5GWsp1D9IF4tKDvVCs2ord+QSlX+j51xgXPs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 20:48:21 GMT"
+          "Value": "Wed, 12 Feb 2025 18:27:59 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "a4e77ymrns"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/ApoloHome.wasm"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-xm2q4HmKMdajgGESVxgQwOUKSvXTljdWOs9MTkMyzqw="
+          "Value": "sha256-B2E39ah5GWsp1D9IF4tKDvVCs2ord+QSlX+j51xgXPs="
         }
       ]
     },
     {
-      "Route": "_framework/ApoloHome.a4e77ymrns.wasm",
-      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\v1gkdn5f19-a4e77ymrns.gz",
+      "Route": "_framework/ApoloHome.wasm",
+      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\v1gkdn5f19-zthre4fi4r.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000050273993"
+          "Quality": "0.000043538837"
         }
       ],
       "ResponseHeaders": [
@@ -10643,19 +10772,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19890"
+          "Value": "22967"
         },
         {
           "Name": "ETag",
-          "Value": "\"w6UVuT4D6LEfqE1sP6vqZ7sYVgRkCd7EhAv61cYvryc=\""
+          "Value": "\"nPcPNXfWeDHGFUHma+AD8zwt21Spb+0QjVz9gUT9Iu0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 20:48:22 GMT"
+          "Value": "Wed, 12 Feb 2025 18:28:00 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -10671,27 +10800,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"xm2q4HmKMdajgGESVxgQwOUKSvXTljdWOs9MTkMyzqw=\""
+          "Value": "W/\"B2E39ah5GWsp1D9IF4tKDvVCs2ord+QSlX+j51xgXPs=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "a4e77ymrns"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/ApoloHome.wasm"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-xm2q4HmKMdajgGESVxgQwOUKSvXTljdWOs9MTkMyzqw="
+          "Value": "sha256-B2E39ah5GWsp1D9IF4tKDvVCs2ord+QSlX+j51xgXPs="
         }
       ]
     },
     {
-      "Route": "_framework/ApoloHome.a4e77ymrns.wasm.gz",
-      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\v1gkdn5f19-a4e77ymrns.gz",
+      "Route": "_framework/ApoloHome.wasm.gz",
+      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\v1gkdn5f19-zthre4fi4r.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10700,7 +10821,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19890"
+          "Value": "22967"
         },
         {
           "Name": "Content-Type",
@@ -10708,15 +10829,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"w6UVuT4D6LEfqE1sP6vqZ7sYVgRkCd7EhAv61cYvryc=\""
+          "Value": "\"nPcPNXfWeDHGFUHma+AD8zwt21Spb+0QjVz9gUT9Iu0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 20:48:22 GMT"
+          "Value": "Wed, 12 Feb 2025 18:28:00 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -10729,21 +10850,13 @@
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "a4e77ymrns"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/ApoloHome.wasm.gz"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-w6UVuT4D6LEfqE1sP6vqZ7sYVgRkCd7EhAv61cYvryc="
+          "Value": "sha256-nPcPNXfWeDHGFUHma+AD8zwt21Spb+0QjVz9gUT9Iu0="
         }
       ]
     },
     {
-      "Route": "_framework/ApoloHome.pdb",
+      "Route": "_framework/ApoloHome.ypdpryl93u.pdb",
       "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ApoloHome.pdb",
       "Selectors": [],
       "ResponseHeaders": [
@@ -10753,7 +10866,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "36004"
+          "Value": "45040"
         },
         {
           "Name": "Content-Type",
@@ -10761,148 +10874,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"NpAay4ga0N9Ozsz45odnp+Uwy3LRziaBY8vmqqCZ8X0=\""
+          "Value": "\"tmRXMOzqpmkoSi6ucczUh6mX+86MLOKxi+mdoOaboP0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 20:48:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-NpAay4ga0N9Ozsz45odnp+Uwy3LRziaBY8vmqqCZ8X0="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/ApoloHome.pdb",
-      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\vo5nvu7ejv-uuqpg30d9f.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000034611657"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "28891"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/HBRXa4YYi0TGUKxUqefoSLI11mGsQUcjKnM7l9cOrk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 20:48:22 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"NpAay4ga0N9Ozsz45odnp+Uwy3LRziaBY8vmqqCZ8X0=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-NpAay4ga0N9Ozsz45odnp+Uwy3LRziaBY8vmqqCZ8X0="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/ApoloHome.pdb.gz",
-      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\vo5nvu7ejv-uuqpg30d9f.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "28891"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/HBRXa4YYi0TGUKxUqefoSLI11mGsQUcjKnM7l9cOrk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 20:48:22 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-/HBRXa4YYi0TGUKxUqefoSLI11mGsQUcjKnM7l9cOrk="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/ApoloHome.uuqpg30d9f.pdb",
-      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ApoloHome.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "36004"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"NpAay4ga0N9Ozsz45odnp+Uwy3LRziaBY8vmqqCZ8X0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 20:48:21 GMT"
+          "Value": "Wed, 12 Feb 2025 18:27:59 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10912,7 +10888,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "uuqpg30d9f"
+          "Value": "ypdpryl93u"
         },
         {
           "Name": "label",
@@ -10920,18 +10896,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-NpAay4ga0N9Ozsz45odnp+Uwy3LRziaBY8vmqqCZ8X0="
+          "Value": "sha256-tmRXMOzqpmkoSi6ucczUh6mX+86MLOKxi+mdoOaboP0="
         }
       ]
     },
     {
-      "Route": "_framework/ApoloHome.uuqpg30d9f.pdb",
-      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\vo5nvu7ejv-uuqpg30d9f.gz",
+      "Route": "_framework/ApoloHome.ypdpryl93u.pdb",
+      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\vo5nvu7ejv-ypdpryl93u.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000034611657"
+          "Quality": "0.000026484454"
         }
       ],
       "ResponseHeaders": [
@@ -10941,15 +10917,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "28891"
+          "Value": "37757"
         },
         {
           "Name": "ETag",
-          "Value": "\"/HBRXa4YYi0TGUKxUqefoSLI11mGsQUcjKnM7l9cOrk=\""
+          "Value": "\"q7nCGVtt0f2v4zipwleTXGRKEmIdRSNXpzzG1nGWiPQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 20:48:22 GMT"
+          "Value": "Wed, 12 Feb 2025 18:28:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10969,13 +10945,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"NpAay4ga0N9Ozsz45odnp+Uwy3LRziaBY8vmqqCZ8X0=\""
+          "Value": "W/\"tmRXMOzqpmkoSi6ucczUh6mX+86MLOKxi+mdoOaboP0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "uuqpg30d9f"
+          "Value": "ypdpryl93u"
         },
         {
           "Name": "label",
@@ -10983,13 +10959,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-NpAay4ga0N9Ozsz45odnp+Uwy3LRziaBY8vmqqCZ8X0="
+          "Value": "sha256-tmRXMOzqpmkoSi6ucczUh6mX+86MLOKxi+mdoOaboP0="
         }
       ]
     },
     {
-      "Route": "_framework/ApoloHome.uuqpg30d9f.pdb.gz",
-      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\vo5nvu7ejv-uuqpg30d9f.gz",
+      "Route": "_framework/ApoloHome.ypdpryl93u.pdb.gz",
+      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\vo5nvu7ejv-ypdpryl93u.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10998,7 +10974,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "28891"
+          "Value": "37757"
         },
         {
           "Name": "Content-Type",
@@ -11006,11 +10982,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/HBRXa4YYi0TGUKxUqefoSLI11mGsQUcjKnM7l9cOrk=\""
+          "Value": "\"q7nCGVtt0f2v4zipwleTXGRKEmIdRSNXpzzG1nGWiPQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 20:48:22 GMT"
+          "Value": "Wed, 12 Feb 2025 18:28:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11028,7 +11004,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "uuqpg30d9f"
+          "Value": "ypdpryl93u"
         },
         {
           "Name": "label",
@@ -11036,12 +11012,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-/HBRXa4YYi0TGUKxUqefoSLI11mGsQUcjKnM7l9cOrk="
+          "Value": "sha256-q7nCGVtt0f2v4zipwleTXGRKEmIdRSNXpzzG1nGWiPQ="
         }
       ]
     },
     {
-      "Route": "_framework/ApoloHome.wasm",
+      "Route": "_framework/ApoloHome.zthre4fi4r.wasm",
       "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ApoloHome.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -11051,7 +11027,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "80149"
+          "Value": "108309"
         },
         {
           "Name": "Content-Type",
@@ -11059,32 +11035,40 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"xm2q4HmKMdajgGESVxgQwOUKSvXTljdWOs9MTkMyzqw=\""
+          "Value": "\"B2E39ah5GWsp1D9IF4tKDvVCs2ord+QSlX+j51xgXPs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 20:48:21 GMT"
+          "Value": "Wed, 12 Feb 2025 18:27:59 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "zthre4fi4r"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/ApoloHome.wasm"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-xm2q4HmKMdajgGESVxgQwOUKSvXTljdWOs9MTkMyzqw="
+          "Value": "sha256-B2E39ah5GWsp1D9IF4tKDvVCs2ord+QSlX+j51xgXPs="
         }
       ]
     },
     {
-      "Route": "_framework/ApoloHome.wasm",
-      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\v1gkdn5f19-a4e77ymrns.gz",
+      "Route": "_framework/ApoloHome.zthre4fi4r.wasm",
+      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\v1gkdn5f19-zthre4fi4r.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000050273993"
+          "Quality": "0.000043538837"
         }
       ],
       "ResponseHeaders": [
@@ -11094,19 +11078,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19890"
+          "Value": "22967"
         },
         {
           "Name": "ETag",
-          "Value": "\"w6UVuT4D6LEfqE1sP6vqZ7sYVgRkCd7EhAv61cYvryc=\""
+          "Value": "\"nPcPNXfWeDHGFUHma+AD8zwt21Spb+0QjVz9gUT9Iu0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 20:48:22 GMT"
+          "Value": "Wed, 12 Feb 2025 18:28:00 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -11122,19 +11106,27 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"xm2q4HmKMdajgGESVxgQwOUKSvXTljdWOs9MTkMyzqw=\""
+          "Value": "W/\"B2E39ah5GWsp1D9IF4tKDvVCs2ord+QSlX+j51xgXPs=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "zthre4fi4r"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/ApoloHome.wasm"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-xm2q4HmKMdajgGESVxgQwOUKSvXTljdWOs9MTkMyzqw="
+          "Value": "sha256-B2E39ah5GWsp1D9IF4tKDvVCs2ord+QSlX+j51xgXPs="
         }
       ]
     },
     {
-      "Route": "_framework/ApoloHome.wasm.gz",
-      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\v1gkdn5f19-a4e77ymrns.gz",
+      "Route": "_framework/ApoloHome.zthre4fi4r.wasm.gz",
+      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\v1gkdn5f19-zthre4fi4r.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11143,7 +11135,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19890"
+          "Value": "22967"
         },
         {
           "Name": "Content-Type",
@@ -11151,15 +11143,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"w6UVuT4D6LEfqE1sP6vqZ7sYVgRkCd7EhAv61cYvryc=\""
+          "Value": "\"nPcPNXfWeDHGFUHma+AD8zwt21Spb+0QjVz9gUT9Iu0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 20:48:22 GMT"
+          "Value": "Wed, 12 Feb 2025 18:28:00 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -11172,8 +11164,16 @@
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "zthre4fi4r"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/ApoloHome.wasm.gz"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-w6UVuT4D6LEfqE1sP6vqZ7sYVgRkCd7EhAv61cYvryc="
+          "Value": "sha256-nPcPNXfWeDHGFUHma+AD8zwt21Spb+0QjVz9gUT9Iu0="
         }
       ]
     },
@@ -11196,11 +11196,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"v1NHLjPnG2iOGP6QiEkRxGSl8HvotUVqKST4Rec2uiI=\""
+          "Value": "\"LosrJnPlx3NtRKP/hqBrX9aGgyr/by4K7z6/DzbGgEE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 20:54:08 GMT"
+          "Value": "Wed, 12 Feb 2025 18:28:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11210,18 +11210,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-v1NHLjPnG2iOGP6QiEkRxGSl8HvotUVqKST4Rec2uiI="
+          "Value": "sha256-LosrJnPlx3NtRKP/hqBrX9aGgyr/by4K7z6/DzbGgEE="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\ql3opnoniu-xcnok71o3l.gz",
+      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\ql3opnoniu-yfn67iukjc.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000081366965"
+          "Quality": "0.000081347108"
         }
       ],
       "ResponseHeaders": [
@@ -11231,15 +11231,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12289"
+          "Value": "12292"
         },
         {
           "Name": "ETag",
-          "Value": "\"11dlLifwmLfTj1sJRve4FoguXUDkTEGyvkzwjIN0Q6k=\""
+          "Value": "\"Lxb6Slo+jWdP0w06YWUJfQ1omZW80F1ND/TI11wJT2M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 20:51:50 GMT"
+          "Value": "Wed, 12 Feb 2025 18:25:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11259,19 +11259,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"v1NHLjPnG2iOGP6QiEkRxGSl8HvotUVqKST4Rec2uiI=\""
+          "Value": "W/\"LosrJnPlx3NtRKP/hqBrX9aGgyr/by4K7z6/DzbGgEE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-v1NHLjPnG2iOGP6QiEkRxGSl8HvotUVqKST4Rec2uiI="
+          "Value": "sha256-LosrJnPlx3NtRKP/hqBrX9aGgyr/by4K7z6/DzbGgEE="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\ql3opnoniu-xcnok71o3l.gz",
+      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\ql3opnoniu-yfn67iukjc.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11280,7 +11280,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12289"
+          "Value": "12292"
         },
         {
           "Name": "Content-Type",
@@ -11288,11 +11288,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"11dlLifwmLfTj1sJRve4FoguXUDkTEGyvkzwjIN0Q6k=\""
+          "Value": "\"Lxb6Slo+jWdP0w06YWUJfQ1omZW80F1ND/TI11wJT2M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 20:51:50 GMT"
+          "Value": "Wed, 12 Feb 2025 18:25:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11310,7 +11310,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-11dlLifwmLfTj1sJRve4FoguXUDkTEGyvkzwjIN0Q6k="
+          "Value": "sha256-Lxb6Slo+jWdP0w06YWUJfQ1omZW80F1ND/TI11wJT2M="
         }
       ]
     },
@@ -11452,7 +11452,7 @@
       ]
     },
     {
-      "Route": "_framework/dotnet.js",
+      "Route": "_framework/dotnet.aqp76xwkzt.js",
       "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dotnet.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -11470,27 +11470,35 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"lIFBSyH5fOmCyz9NzfVceXU09qRLS0mn0JZG0tuYWBo=\""
+          "Value": "\"/pcrNUZIFxvVrfML8zazMdEZ+IB0TdSKqJ6mAPvV+w4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 21:10:00 GMT"
+          "Value": "Thu, 16 Jan 2025 19:03:16 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "aqp76xwkzt"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/dotnet.js"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-lIFBSyH5fOmCyz9NzfVceXU09qRLS0mn0JZG0tuYWBo="
+          "Value": "sha256-/pcrNUZIFxvVrfML8zazMdEZ+IB0TdSKqJ6mAPvV+w4="
         }
       ]
     },
     {
-      "Route": "_framework/dotnet.js",
-      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\9tufxa5rhn-o1flzbn3wd.gz",
+      "Route": "_framework/dotnet.aqp76xwkzt.js",
+      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\9tufxa5rhn-aqp76xwkzt.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -11509,450 +11517,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8GIzXkGZ2yBlcLmdrM9RUuIwSxloTkxj1tKcOckdGx4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 17:12:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"lIFBSyH5fOmCyz9NzfVceXU09qRLS0mn0JZG0tuYWBo=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-lIFBSyH5fOmCyz9NzfVceXU09qRLS0mn0JZG0tuYWBo="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/dotnet.js.gz",
-      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\9tufxa5rhn-o1flzbn3wd.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "12782"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"8GIzXkGZ2yBlcLmdrM9RUuIwSxloTkxj1tKcOckdGx4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 17:12:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-8GIzXkGZ2yBlcLmdrM9RUuIwSxloTkxj1tKcOckdGx4="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/dotnet.js.m27we6zftd.map",
-      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dotnet.js.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "56573"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"zoGTv1THI1ohU8YlTf4/31t+nriX3EIuBnVSnf1wrXY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 21:10:00 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "m27we6zftd"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/dotnet.js.map"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-zoGTv1THI1ohU8YlTf4/31t+nriX3EIuBnVSnf1wrXY="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/dotnet.js.m27we6zftd.map",
-      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\f85v4tfqwr-m27we6zftd.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000046939542"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "21303"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"KjpsACGDvHdNihBawy2WouHERE/xmcIJbXauMseykYg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 17:12:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"zoGTv1THI1ohU8YlTf4/31t+nriX3EIuBnVSnf1wrXY=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "m27we6zftd"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/dotnet.js.map"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-zoGTv1THI1ohU8YlTf4/31t+nriX3EIuBnVSnf1wrXY="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/dotnet.js.m27we6zftd.map.gz",
-      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\f85v4tfqwr-m27we6zftd.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "21303"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"KjpsACGDvHdNihBawy2WouHERE/xmcIJbXauMseykYg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 17:12:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "m27we6zftd"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/dotnet.js.map.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-KjpsACGDvHdNihBawy2WouHERE/xmcIJbXauMseykYg="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/dotnet.js.map",
-      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dotnet.js.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "56573"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"zoGTv1THI1ohU8YlTf4/31t+nriX3EIuBnVSnf1wrXY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 21:10:00 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-zoGTv1THI1ohU8YlTf4/31t+nriX3EIuBnVSnf1wrXY="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/dotnet.js.map",
-      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\f85v4tfqwr-m27we6zftd.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000046939542"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "21303"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"KjpsACGDvHdNihBawy2WouHERE/xmcIJbXauMseykYg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 17:12:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"zoGTv1THI1ohU8YlTf4/31t+nriX3EIuBnVSnf1wrXY=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-zoGTv1THI1ohU8YlTf4/31t+nriX3EIuBnVSnf1wrXY="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/dotnet.js.map.gz",
-      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\f85v4tfqwr-m27we6zftd.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "21303"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"KjpsACGDvHdNihBawy2WouHERE/xmcIJbXauMseykYg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 17:12:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-KjpsACGDvHdNihBawy2WouHERE/xmcIJbXauMseykYg="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/dotnet.native.8o8n7iomrf.js",
-      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dotnet.native.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "145424"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"WIUiy49hHQ3kOAtRdCtUzm3Yg5BnOqCC+Q+kri9Fi1g=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 21:10:34 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "8o8n7iomrf"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/dotnet.native.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-WIUiy49hHQ3kOAtRdCtUzm3Yg5BnOqCC+Q+kri9Fi1g="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/dotnet.native.8o8n7iomrf.js",
-      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\fgnwi2usvt-8o8n7iomrf.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000028552665"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "35022"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"yYHRdXG37l58npU27fJg8NF67l5yaGysS102YSV/wBs=\""
+          "Value": "\"3NqnOF0uy592xZsdJ1vf4EcRs9DSfhVmxY/iyjD0CnE=\""
         },
         {
           "Name": "Last-Modified",
@@ -11976,546 +11541,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"WIUiy49hHQ3kOAtRdCtUzm3Yg5BnOqCC+Q+kri9Fi1g=\""
+          "Value": "W/\"/pcrNUZIFxvVrfML8zazMdEZ+IB0TdSKqJ6mAPvV+w4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "8o8n7iomrf"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/dotnet.native.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-WIUiy49hHQ3kOAtRdCtUzm3Yg5BnOqCC+Q+kri9Fi1g="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/dotnet.native.8o8n7iomrf.js.gz",
-      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\fgnwi2usvt-8o8n7iomrf.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "35022"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"yYHRdXG37l58npU27fJg8NF67l5yaGysS102YSV/wBs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 17:12:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "8o8n7iomrf"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/dotnet.native.js.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-yYHRdXG37l58npU27fJg8NF67l5yaGysS102YSV/wBs="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/dotnet.native.aep4lch3d1.wasm",
-      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dotnet.native.wasm",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2974858"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"bvHGVH9zAMOjdIvgvRKP4Bg793vWpedEYSWg32uUr3o=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 21:10:34 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "aep4lch3d1"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/dotnet.native.wasm"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-bvHGVH9zAMOjdIvgvRKP4Bg793vWpedEYSWg32uUr3o="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/dotnet.native.aep4lch3d1.wasm",
-      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\trgu5vl2nl-aep4lch3d1.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000000834862"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1197802"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"mCJ7GdUYJckTJP0Uf8ffORFht2sr9ZGjYGpwpuP9K/E=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 17:12:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"bvHGVH9zAMOjdIvgvRKP4Bg793vWpedEYSWg32uUr3o=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "aep4lch3d1"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/dotnet.native.wasm"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-bvHGVH9zAMOjdIvgvRKP4Bg793vWpedEYSWg32uUr3o="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/dotnet.native.aep4lch3d1.wasm.gz",
-      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\trgu5vl2nl-aep4lch3d1.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1197802"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"mCJ7GdUYJckTJP0Uf8ffORFht2sr9ZGjYGpwpuP9K/E=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 17:12:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "aep4lch3d1"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/dotnet.native.wasm.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-mCJ7GdUYJckTJP0Uf8ffORFht2sr9ZGjYGpwpuP9K/E="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/dotnet.native.js",
-      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dotnet.native.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "145424"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"WIUiy49hHQ3kOAtRdCtUzm3Yg5BnOqCC+Q+kri9Fi1g=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 21:10:34 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-WIUiy49hHQ3kOAtRdCtUzm3Yg5BnOqCC+Q+kri9Fi1g="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/dotnet.native.js",
-      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\fgnwi2usvt-8o8n7iomrf.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000028552665"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "35022"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"yYHRdXG37l58npU27fJg8NF67l5yaGysS102YSV/wBs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 17:12:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"WIUiy49hHQ3kOAtRdCtUzm3Yg5BnOqCC+Q+kri9Fi1g=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-WIUiy49hHQ3kOAtRdCtUzm3Yg5BnOqCC+Q+kri9Fi1g="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/dotnet.native.js.gz",
-      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\fgnwi2usvt-8o8n7iomrf.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "35022"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"yYHRdXG37l58npU27fJg8NF67l5yaGysS102YSV/wBs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 17:12:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-yYHRdXG37l58npU27fJg8NF67l5yaGysS102YSV/wBs="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/dotnet.native.wasm",
-      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dotnet.native.wasm",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2974858"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"bvHGVH9zAMOjdIvgvRKP4Bg793vWpedEYSWg32uUr3o=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 21:10:34 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-bvHGVH9zAMOjdIvgvRKP4Bg793vWpedEYSWg32uUr3o="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/dotnet.native.wasm",
-      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\trgu5vl2nl-aep4lch3d1.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000000834862"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1197802"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"mCJ7GdUYJckTJP0Uf8ffORFht2sr9ZGjYGpwpuP9K/E=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 17:12:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"bvHGVH9zAMOjdIvgvRKP4Bg793vWpedEYSWg32uUr3o=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-bvHGVH9zAMOjdIvgvRKP4Bg793vWpedEYSWg32uUr3o="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/dotnet.native.wasm.gz",
-      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\trgu5vl2nl-aep4lch3d1.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1197802"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"mCJ7GdUYJckTJP0Uf8ffORFht2sr9ZGjYGpwpuP9K/E=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 17:12:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-mCJ7GdUYJckTJP0Uf8ffORFht2sr9ZGjYGpwpuP9K/E="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/dotnet.o1flzbn3wd.js",
-      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dotnet.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "40681"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"lIFBSyH5fOmCyz9NzfVceXU09qRLS0mn0JZG0tuYWBo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 21:10:00 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "o1flzbn3wd"
+          "Value": "aqp76xwkzt"
         },
         {
           "Name": "label",
@@ -12523,76 +11555,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-lIFBSyH5fOmCyz9NzfVceXU09qRLS0mn0JZG0tuYWBo="
+          "Value": "sha256-/pcrNUZIFxvVrfML8zazMdEZ+IB0TdSKqJ6mAPvV+w4="
         }
       ]
     },
     {
-      "Route": "_framework/dotnet.o1flzbn3wd.js",
-      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\9tufxa5rhn-o1flzbn3wd.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000078228898"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "12782"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"8GIzXkGZ2yBlcLmdrM9RUuIwSxloTkxj1tKcOckdGx4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 17:12:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"lIFBSyH5fOmCyz9NzfVceXU09qRLS0mn0JZG0tuYWBo=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "o1flzbn3wd"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/dotnet.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-lIFBSyH5fOmCyz9NzfVceXU09qRLS0mn0JZG0tuYWBo="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/dotnet.o1flzbn3wd.js.gz",
-      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\9tufxa5rhn-o1flzbn3wd.gz",
+      "Route": "_framework/dotnet.aqp76xwkzt.js.gz",
+      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\9tufxa5rhn-aqp76xwkzt.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12609,7 +11578,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8GIzXkGZ2yBlcLmdrM9RUuIwSxloTkxj1tKcOckdGx4=\""
+          "Value": "\"3NqnOF0uy592xZsdJ1vf4EcRs9DSfhVmxY/iyjD0CnE=\""
         },
         {
           "Name": "Last-Modified",
@@ -12631,7 +11600,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "o1flzbn3wd"
+          "Value": "aqp76xwkzt"
         },
         {
           "Name": "label",
@@ -12639,7 +11608,1038 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-8GIzXkGZ2yBlcLmdrM9RUuIwSxloTkxj1tKcOckdGx4="
+          "Value": "sha256-3NqnOF0uy592xZsdJ1vf4EcRs9DSfhVmxY/iyjD0CnE="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/dotnet.js",
+      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dotnet.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40681"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/pcrNUZIFxvVrfML8zazMdEZ+IB0TdSKqJ6mAPvV+w4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 19:03:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/pcrNUZIFxvVrfML8zazMdEZ+IB0TdSKqJ6mAPvV+w4="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/dotnet.js",
+      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\9tufxa5rhn-aqp76xwkzt.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000078228898"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12782"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3NqnOF0uy592xZsdJ1vf4EcRs9DSfhVmxY/iyjD0CnE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 17:12:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"/pcrNUZIFxvVrfML8zazMdEZ+IB0TdSKqJ6mAPvV+w4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/pcrNUZIFxvVrfML8zazMdEZ+IB0TdSKqJ6mAPvV+w4="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/dotnet.js.3xmhzkst62.map",
+      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dotnet.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56573"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uZ78dzkpKpqOOREKMu96HZuyG1XQJN8TJtajfR7vh7I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 19:03:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3xmhzkst62"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/dotnet.js.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uZ78dzkpKpqOOREKMu96HZuyG1XQJN8TJtajfR7vh7I="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/dotnet.js.3xmhzkst62.map",
+      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\f85v4tfqwr-3xmhzkst62.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000046939542"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21303"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CUc1TNFAQlebYBT4iccgBFNHtHHMrOwPrfF1pJ1daUI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 17:12:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"uZ78dzkpKpqOOREKMu96HZuyG1XQJN8TJtajfR7vh7I=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3xmhzkst62"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/dotnet.js.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uZ78dzkpKpqOOREKMu96HZuyG1XQJN8TJtajfR7vh7I="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/dotnet.js.3xmhzkst62.map.gz",
+      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\f85v4tfqwr-3xmhzkst62.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21303"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CUc1TNFAQlebYBT4iccgBFNHtHHMrOwPrfF1pJ1daUI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 17:12:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3xmhzkst62"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/dotnet.js.map.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CUc1TNFAQlebYBT4iccgBFNHtHHMrOwPrfF1pJ1daUI="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/dotnet.js.gz",
+      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\9tufxa5rhn-aqp76xwkzt.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12782"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3NqnOF0uy592xZsdJ1vf4EcRs9DSfhVmxY/iyjD0CnE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 17:12:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3NqnOF0uy592xZsdJ1vf4EcRs9DSfhVmxY/iyjD0CnE="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/dotnet.js.map",
+      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dotnet.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56573"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uZ78dzkpKpqOOREKMu96HZuyG1XQJN8TJtajfR7vh7I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 19:03:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uZ78dzkpKpqOOREKMu96HZuyG1XQJN8TJtajfR7vh7I="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/dotnet.js.map",
+      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\f85v4tfqwr-3xmhzkst62.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000046939542"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21303"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CUc1TNFAQlebYBT4iccgBFNHtHHMrOwPrfF1pJ1daUI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 17:12:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"uZ78dzkpKpqOOREKMu96HZuyG1XQJN8TJtajfR7vh7I=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uZ78dzkpKpqOOREKMu96HZuyG1XQJN8TJtajfR7vh7I="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/dotnet.js.map.gz",
+      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\f85v4tfqwr-3xmhzkst62.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21303"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CUc1TNFAQlebYBT4iccgBFNHtHHMrOwPrfF1pJ1daUI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 17:12:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CUc1TNFAQlebYBT4iccgBFNHtHHMrOwPrfF1pJ1daUI="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/dotnet.native.8bti36lthm.js",
+      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dotnet.native.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "145424"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HFADmT26AarHu4tMjFaTPxINmQjBJGtdPN+CKjtNMFE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 19:03:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8bti36lthm"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/dotnet.native.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HFADmT26AarHu4tMjFaTPxINmQjBJGtdPN+CKjtNMFE="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/dotnet.native.8bti36lthm.js",
+      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\fgnwi2usvt-8bti36lthm.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000028551850"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35023"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"//krJFfmdgV0y430ME/8Tmhc2s6vZUWaVMc9YrFKv4s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 18:02:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"HFADmT26AarHu4tMjFaTPxINmQjBJGtdPN+CKjtNMFE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8bti36lthm"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/dotnet.native.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HFADmT26AarHu4tMjFaTPxINmQjBJGtdPN+CKjtNMFE="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/dotnet.native.8bti36lthm.js.gz",
+      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\fgnwi2usvt-8bti36lthm.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35023"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"//krJFfmdgV0y430ME/8Tmhc2s6vZUWaVMc9YrFKv4s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 18:02:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8bti36lthm"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/dotnet.native.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-//krJFfmdgV0y430ME/8Tmhc2s6vZUWaVMc9YrFKv4s="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/dotnet.native.js",
+      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dotnet.native.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "145424"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HFADmT26AarHu4tMjFaTPxINmQjBJGtdPN+CKjtNMFE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 19:03:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HFADmT26AarHu4tMjFaTPxINmQjBJGtdPN+CKjtNMFE="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/dotnet.native.js",
+      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\fgnwi2usvt-8bti36lthm.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000028551850"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35023"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"//krJFfmdgV0y430ME/8Tmhc2s6vZUWaVMc9YrFKv4s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 18:02:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"HFADmT26AarHu4tMjFaTPxINmQjBJGtdPN+CKjtNMFE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HFADmT26AarHu4tMjFaTPxINmQjBJGtdPN+CKjtNMFE="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/dotnet.native.js.gz",
+      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\fgnwi2usvt-8bti36lthm.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35023"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"//krJFfmdgV0y430ME/8Tmhc2s6vZUWaVMc9YrFKv4s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 18:02:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-//krJFfmdgV0y430ME/8Tmhc2s6vZUWaVMc9YrFKv4s="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/dotnet.native.tr0cyonrwt.wasm",
+      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dotnet.native.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2974997"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"F3/BArijJUydqmwcdWeW3LYyYHBRSu2+pyy8GL1jTV0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 19:03:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tr0cyonrwt"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/dotnet.native.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-F3/BArijJUydqmwcdWeW3LYyYHBRSu2+pyy8GL1jTV0="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/dotnet.native.tr0cyonrwt.wasm",
+      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\trgu5vl2nl-tr0cyonrwt.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000000834853"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1197814"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M8GzQZCbP/bXuaT4eLxxNBawPlx26jNcuElXasRDdyc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 18:02:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"F3/BArijJUydqmwcdWeW3LYyYHBRSu2+pyy8GL1jTV0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tr0cyonrwt"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/dotnet.native.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-F3/BArijJUydqmwcdWeW3LYyYHBRSu2+pyy8GL1jTV0="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/dotnet.native.tr0cyonrwt.wasm.gz",
+      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\trgu5vl2nl-tr0cyonrwt.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1197814"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M8GzQZCbP/bXuaT4eLxxNBawPlx26jNcuElXasRDdyc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 18:02:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tr0cyonrwt"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/dotnet.native.wasm.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-M8GzQZCbP/bXuaT4eLxxNBawPlx26jNcuElXasRDdyc="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/dotnet.native.wasm",
+      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dotnet.native.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2974997"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"F3/BArijJUydqmwcdWeW3LYyYHBRSu2+pyy8GL1jTV0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 19:03:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-F3/BArijJUydqmwcdWeW3LYyYHBRSu2+pyy8GL1jTV0="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/dotnet.native.wasm",
+      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\trgu5vl2nl-tr0cyonrwt.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000000834853"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1197814"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M8GzQZCbP/bXuaT4eLxxNBawPlx26jNcuElXasRDdyc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 18:02:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"F3/BArijJUydqmwcdWeW3LYyYHBRSu2+pyy8GL1jTV0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-F3/BArijJUydqmwcdWeW3LYyYHBRSu2+pyy8GL1jTV0="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/dotnet.native.wasm.gz",
+      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\trgu5vl2nl-tr0cyonrwt.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1197814"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M8GzQZCbP/bXuaT4eLxxNBawPlx26jNcuElXasRDdyc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 18:02:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-M8GzQZCbP/bXuaT4eLxxNBawPlx26jNcuElXasRDdyc="
         }
       ]
     },
@@ -12662,11 +12662,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"gypqZnsxxUh4y4EJmawvOCaX4hoTaesVGwIgWXwZcNw=\""
+          "Value": "\"82FoDmY+LsehdN2u8aSGEutGEKXJHcYaSX/3zptbsCw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 21:10:06 GMT"
+          "Value": "Thu, 16 Jan 2025 19:03:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12676,18 +12676,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-gypqZnsxxUh4y4EJmawvOCaX4hoTaesVGwIgWXwZcNw="
+          "Value": "sha256-82FoDmY+LsehdN2u8aSGEutGEKXJHcYaSX/3zptbsCw="
         }
       ]
     },
     {
       "Route": "_framework/dotnet.runtime.js",
-      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\8e13dphyhr-rubq0v1yiy.gz",
+      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\8e13dphyhr-tsg4gsv2hg.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000017799295"
+          "Quality": "0.000017798978"
         }
       ],
       "ResponseHeaders": [
@@ -12697,15 +12697,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "56181"
+          "Value": "56182"
         },
         {
           "Name": "ETag",
-          "Value": "\"/IXSJh9TD4vkwB8+rNBVC9vD5dY1awDBCkcsp3U4yqQ=\""
+          "Value": "\"yalQco68p1sKTa06ceVBP+uNtNFlmV4P6+7jG5CwBX4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 17:12:43 GMT"
+          "Value": "Wed, 12 Feb 2025 18:02:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12725,63 +12725,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"gypqZnsxxUh4y4EJmawvOCaX4hoTaesVGwIgWXwZcNw=\""
+          "Value": "W/\"82FoDmY+LsehdN2u8aSGEutGEKXJHcYaSX/3zptbsCw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-gypqZnsxxUh4y4EJmawvOCaX4hoTaesVGwIgWXwZcNw="
+          "Value": "sha256-82FoDmY+LsehdN2u8aSGEutGEKXJHcYaSX/3zptbsCw="
         }
       ]
     },
     {
-      "Route": "_framework/dotnet.runtime.js.gz",
-      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\8e13dphyhr-rubq0v1yiy.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "56181"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/IXSJh9TD4vkwB8+rNBVC9vD5dY1awDBCkcsp3U4yqQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 17:12:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-/IXSJh9TD4vkwB8+rNBVC9vD5dY1awDBCkcsp3U4yqQ="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/dotnet.runtime.js.map",
+      "Route": "_framework/dotnet.runtime.js.680lcgmlbm.map",
       "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
       "Selectors": [],
       "ResponseHeaders": [
@@ -12799,27 +12754,35 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"q/nr9rL9/qurnmyljWmcv7yStKuvDUHexkNvaRJ3cD0=\""
+          "Value": "\"ZmDmkgcXhChDWRHCx3XZMJe7cgx2e4YsJg8qr2YME8Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 21:10:06 GMT"
+          "Value": "Thu, 16 Jan 2025 19:03:22 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "680lcgmlbm"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/dotnet.runtime.js.map"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-q/nr9rL9/qurnmyljWmcv7yStKuvDUHexkNvaRJ3cD0="
+          "Value": "sha256-ZmDmkgcXhChDWRHCx3XZMJe7cgx2e4YsJg8qr2YME8Y="
         }
       ]
     },
     {
-      "Route": "_framework/dotnet.runtime.js.map",
-      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\h7nqfl3oya-tyz1a4w3vb.gz",
+      "Route": "_framework/dotnet.runtime.js.680lcgmlbm.map",
+      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\h7nqfl3oya-680lcgmlbm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -12838,119 +12801,37 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"W095CnQ1EtcmtVYhQNoFPzAtuNhQ2iJhba1K2HBs7bM=\""
+          "Value": "\"k8s8jb6tnSWBI0Yt8hFJhThWI1Hi7ad/sdZkvDE/K9M=\""
         },
         {
           "Name": "Last-Modified",
           "Value": "Tue, 11 Feb 2025 17:12:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"q/nr9rL9/qurnmyljWmcv7yStKuvDUHexkNvaRJ3cD0=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-q/nr9rL9/qurnmyljWmcv7yStKuvDUHexkNvaRJ3cD0="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/dotnet.runtime.js.map.gz",
-      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\h7nqfl3oya-tyz1a4w3vb.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "88521"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"W095CnQ1EtcmtVYhQNoFPzAtuNhQ2iJhba1K2HBs7bM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 17:12:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-W095CnQ1EtcmtVYhQNoFPzAtuNhQ2iJhba1K2HBs7bM="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/dotnet.runtime.js.tyz1a4w3vb.map",
-      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "275753"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"q/nr9rL9/qurnmyljWmcv7yStKuvDUHexkNvaRJ3cD0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 21:10:06 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ZmDmkgcXhChDWRHCx3XZMJe7cgx2e4YsJg8qr2YME8Y=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "tyz1a4w3vb"
+          "Value": "680lcgmlbm"
         },
         {
           "Name": "label",
@@ -12958,76 +12839,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-q/nr9rL9/qurnmyljWmcv7yStKuvDUHexkNvaRJ3cD0="
+          "Value": "sha256-ZmDmkgcXhChDWRHCx3XZMJe7cgx2e4YsJg8qr2YME8Y="
         }
       ]
     },
     {
-      "Route": "_framework/dotnet.runtime.js.tyz1a4w3vb.map",
-      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\h7nqfl3oya-tyz1a4w3vb.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000011296627"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "88521"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"W095CnQ1EtcmtVYhQNoFPzAtuNhQ2iJhba1K2HBs7bM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 17:12:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"q/nr9rL9/qurnmyljWmcv7yStKuvDUHexkNvaRJ3cD0=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "tyz1a4w3vb"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/dotnet.runtime.js.map"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-q/nr9rL9/qurnmyljWmcv7yStKuvDUHexkNvaRJ3cD0="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/dotnet.runtime.js.tyz1a4w3vb.map.gz",
-      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\h7nqfl3oya-tyz1a4w3vb.gz",
+      "Route": "_framework/dotnet.runtime.js.680lcgmlbm.map.gz",
+      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\h7nqfl3oya-680lcgmlbm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13044,7 +12862,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"W095CnQ1EtcmtVYhQNoFPzAtuNhQ2iJhba1K2HBs7bM=\""
+          "Value": "\"k8s8jb6tnSWBI0Yt8hFJhThWI1Hi7ad/sdZkvDE/K9M=\""
         },
         {
           "Name": "Last-Modified",
@@ -13066,7 +12884,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "tyz1a4w3vb"
+          "Value": "680lcgmlbm"
         },
         {
           "Name": "label",
@@ -13074,12 +12892,194 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-W095CnQ1EtcmtVYhQNoFPzAtuNhQ2iJhba1K2HBs7bM="
+          "Value": "sha256-k8s8jb6tnSWBI0Yt8hFJhThWI1Hi7ad/sdZkvDE/K9M="
         }
       ]
     },
     {
-      "Route": "_framework/dotnet.runtime.rubq0v1yiy.js",
+      "Route": "_framework/dotnet.runtime.js.gz",
+      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\8e13dphyhr-tsg4gsv2hg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56182"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yalQco68p1sKTa06ceVBP+uNtNFlmV4P6+7jG5CwBX4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 18:02:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yalQco68p1sKTa06ceVBP+uNtNFlmV4P6+7jG5CwBX4="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/dotnet.runtime.js.map",
+      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "275753"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZmDmkgcXhChDWRHCx3XZMJe7cgx2e4YsJg8qr2YME8Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 19:03:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZmDmkgcXhChDWRHCx3XZMJe7cgx2e4YsJg8qr2YME8Y="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/dotnet.runtime.js.map",
+      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\h7nqfl3oya-680lcgmlbm.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000011296627"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "88521"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k8s8jb6tnSWBI0Yt8hFJhThWI1Hi7ad/sdZkvDE/K9M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 17:12:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ZmDmkgcXhChDWRHCx3XZMJe7cgx2e4YsJg8qr2YME8Y=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZmDmkgcXhChDWRHCx3XZMJe7cgx2e4YsJg8qr2YME8Y="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/dotnet.runtime.js.map.gz",
+      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\h7nqfl3oya-680lcgmlbm.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "88521"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k8s8jb6tnSWBI0Yt8hFJhThWI1Hi7ad/sdZkvDE/K9M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 17:12:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-k8s8jb6tnSWBI0Yt8hFJhThWI1Hi7ad/sdZkvDE/K9M="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/dotnet.runtime.tsg4gsv2hg.js",
       "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dotnet.runtime.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -13097,11 +13097,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"gypqZnsxxUh4y4EJmawvOCaX4hoTaesVGwIgWXwZcNw=\""
+          "Value": "\"82FoDmY+LsehdN2u8aSGEutGEKXJHcYaSX/3zptbsCw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 21:10:06 GMT"
+          "Value": "Thu, 16 Jan 2025 19:03:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13111,7 +13111,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "rubq0v1yiy"
+          "Value": "tsg4gsv2hg"
         },
         {
           "Name": "label",
@@ -13119,18 +13119,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-gypqZnsxxUh4y4EJmawvOCaX4hoTaesVGwIgWXwZcNw="
+          "Value": "sha256-82FoDmY+LsehdN2u8aSGEutGEKXJHcYaSX/3zptbsCw="
         }
       ]
     },
     {
-      "Route": "_framework/dotnet.runtime.rubq0v1yiy.js",
-      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\8e13dphyhr-rubq0v1yiy.gz",
+      "Route": "_framework/dotnet.runtime.tsg4gsv2hg.js",
+      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\8e13dphyhr-tsg4gsv2hg.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000017799295"
+          "Quality": "0.000017798978"
         }
       ],
       "ResponseHeaders": [
@@ -13140,15 +13140,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "56181"
+          "Value": "56182"
         },
         {
           "Name": "ETag",
-          "Value": "\"/IXSJh9TD4vkwB8+rNBVC9vD5dY1awDBCkcsp3U4yqQ=\""
+          "Value": "\"yalQco68p1sKTa06ceVBP+uNtNFlmV4P6+7jG5CwBX4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 17:12:43 GMT"
+          "Value": "Wed, 12 Feb 2025 18:02:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13168,13 +13168,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"gypqZnsxxUh4y4EJmawvOCaX4hoTaesVGwIgWXwZcNw=\""
+          "Value": "W/\"82FoDmY+LsehdN2u8aSGEutGEKXJHcYaSX/3zptbsCw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "rubq0v1yiy"
+          "Value": "tsg4gsv2hg"
         },
         {
           "Name": "label",
@@ -13182,13 +13182,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-gypqZnsxxUh4y4EJmawvOCaX4hoTaesVGwIgWXwZcNw="
+          "Value": "sha256-82FoDmY+LsehdN2u8aSGEutGEKXJHcYaSX/3zptbsCw="
         }
       ]
     },
     {
-      "Route": "_framework/dotnet.runtime.rubq0v1yiy.js.gz",
-      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\8e13dphyhr-rubq0v1yiy.gz",
+      "Route": "_framework/dotnet.runtime.tsg4gsv2hg.js.gz",
+      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\8e13dphyhr-tsg4gsv2hg.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13197,7 +13197,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "56181"
+          "Value": "56182"
         },
         {
           "Name": "Content-Type",
@@ -13205,11 +13205,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/IXSJh9TD4vkwB8+rNBVC9vD5dY1awDBCkcsp3U4yqQ=\""
+          "Value": "\"yalQco68p1sKTa06ceVBP+uNtNFlmV4P6+7jG5CwBX4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 17:12:43 GMT"
+          "Value": "Wed, 12 Feb 2025 18:02:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13227,7 +13227,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "rubq0v1yiy"
+          "Value": "tsg4gsv2hg"
         },
         {
           "Name": "label",
@@ -13235,7 +13235,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-/IXSJh9TD4vkwB8+rNBVC9vD5dY1awDBCkcsp3U4yqQ="
+          "Value": "sha256-yalQco68p1sKTa06ceVBP+uNtNFlmV4P6+7jG5CwBX4="
         }
       ]
     },
@@ -71053,12 +71053,12 @@
     },
     {
       "Route": "css/main.css",
-      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\yo6dfhb8cm-rbmmv2upm8.gz",
+      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\yo6dfhb8cm-urrgspwei1.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000241604252"
+          "Quality": "0.000241429261"
         }
       ],
       "ResponseHeaders": [
@@ -71068,15 +71068,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4138"
+          "Value": "4141"
         },
         {
           "Name": "ETag",
-          "Value": "\"p7rUBQ0ssvyRjcugKD5XYpGP/UkzPgAdCiw5drxgPKE=\""
+          "Value": "\"wVFEgX8X9dqyaIhZpLmcVCTbRQJF4JFFLDTeRKeh3G0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 20:53:52 GMT"
+          "Value": "Tue, 11 Feb 2025 20:55:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71096,13 +71096,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ef6BAd6rgj3lcZc101OR32TUAcbGlswx4hUbqLYvig0=\""
+          "Value": "W/\"mhAzU5xCDnIDv39pi25+/pvW5Iau11LIxUcxaLb/hFE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ef6BAd6rgj3lcZc101OR32TUAcbGlswx4hUbqLYvig0="
+          "Value": "sha256-mhAzU5xCDnIDv39pi25+/pvW5Iau11LIxUcxaLb/hFE="
         }
       ]
     },
@@ -71117,7 +71117,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "22636"
+          "Value": "22647"
         },
         {
           "Name": "Content-Type",
@@ -71125,11 +71125,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ef6BAd6rgj3lcZc101OR32TUAcbGlswx4hUbqLYvig0=\""
+          "Value": "\"mhAzU5xCDnIDv39pi25+/pvW5Iau11LIxUcxaLb/hFE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 20:53:52 GMT"
+          "Value": "Tue, 11 Feb 2025 20:55:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71139,13 +71139,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ef6BAd6rgj3lcZc101OR32TUAcbGlswx4hUbqLYvig0="
+          "Value": "sha256-mhAzU5xCDnIDv39pi25+/pvW5Iau11LIxUcxaLb/hFE="
         }
       ]
     },
     {
       "Route": "css/main.css.gz",
-      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\yo6dfhb8cm-rbmmv2upm8.gz",
+      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\yo6dfhb8cm-urrgspwei1.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -71154,7 +71154,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4138"
+          "Value": "4141"
         },
         {
           "Name": "Content-Type",
@@ -71162,11 +71162,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"p7rUBQ0ssvyRjcugKD5XYpGP/UkzPgAdCiw5drxgPKE=\""
+          "Value": "\"wVFEgX8X9dqyaIhZpLmcVCTbRQJF4JFFLDTeRKeh3G0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 20:53:52 GMT"
+          "Value": "Tue, 11 Feb 2025 20:55:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71184,18 +71184,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-p7rUBQ0ssvyRjcugKD5XYpGP/UkzPgAdCiw5drxgPKE="
+          "Value": "sha256-wVFEgX8X9dqyaIhZpLmcVCTbRQJF4JFFLDTeRKeh3G0="
         }
       ]
     },
     {
-      "Route": "css/main.rbmmv2upm8.css",
-      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\yo6dfhb8cm-rbmmv2upm8.gz",
+      "Route": "css/main.urrgspwei1.css",
+      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\yo6dfhb8cm-urrgspwei1.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000241604252"
+          "Quality": "0.000241429261"
         }
       ],
       "ResponseHeaders": [
@@ -71205,15 +71205,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4138"
+          "Value": "4141"
         },
         {
           "Name": "ETag",
-          "Value": "\"p7rUBQ0ssvyRjcugKD5XYpGP/UkzPgAdCiw5drxgPKE=\""
+          "Value": "\"wVFEgX8X9dqyaIhZpLmcVCTbRQJF4JFFLDTeRKeh3G0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 20:53:52 GMT"
+          "Value": "Tue, 11 Feb 2025 20:55:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71233,13 +71233,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ef6BAd6rgj3lcZc101OR32TUAcbGlswx4hUbqLYvig0=\""
+          "Value": "W/\"mhAzU5xCDnIDv39pi25+/pvW5Iau11LIxUcxaLb/hFE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "rbmmv2upm8"
+          "Value": "urrgspwei1"
         },
         {
           "Name": "label",
@@ -71247,12 +71247,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ef6BAd6rgj3lcZc101OR32TUAcbGlswx4hUbqLYvig0="
+          "Value": "sha256-mhAzU5xCDnIDv39pi25+/pvW5Iau11LIxUcxaLb/hFE="
         }
       ]
     },
     {
-      "Route": "css/main.rbmmv2upm8.css",
+      "Route": "css/main.urrgspwei1.css",
       "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\wwwroot\\css\\main.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -71262,7 +71262,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "22636"
+          "Value": "22647"
         },
         {
           "Name": "Content-Type",
@@ -71270,11 +71270,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ef6BAd6rgj3lcZc101OR32TUAcbGlswx4hUbqLYvig0=\""
+          "Value": "\"mhAzU5xCDnIDv39pi25+/pvW5Iau11LIxUcxaLb/hFE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 20:53:52 GMT"
+          "Value": "Tue, 11 Feb 2025 20:55:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71284,7 +71284,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "rbmmv2upm8"
+          "Value": "urrgspwei1"
         },
         {
           "Name": "label",
@@ -71292,13 +71292,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ef6BAd6rgj3lcZc101OR32TUAcbGlswx4hUbqLYvig0="
+          "Value": "sha256-mhAzU5xCDnIDv39pi25+/pvW5Iau11LIxUcxaLb/hFE="
         }
       ]
     },
     {
-      "Route": "css/main.rbmmv2upm8.css.gz",
-      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\yo6dfhb8cm-rbmmv2upm8.gz",
+      "Route": "css/main.urrgspwei1.css.gz",
+      "AssetFile": "C:\\Users\\DaniG\\ApoloHomeVSC\\ApoloHome\\obj\\Debug\\net9.0\\compressed\\yo6dfhb8cm-urrgspwei1.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -71307,7 +71307,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4138"
+          "Value": "4141"
         },
         {
           "Name": "Content-Type",
@@ -71315,11 +71315,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"p7rUBQ0ssvyRjcugKD5XYpGP/UkzPgAdCiw5drxgPKE=\""
+          "Value": "\"wVFEgX8X9dqyaIhZpLmcVCTbRQJF4JFFLDTeRKeh3G0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 20:53:52 GMT"
+          "Value": "Tue, 11 Feb 2025 20:55:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71337,7 +71337,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "rbmmv2upm8"
+          "Value": "urrgspwei1"
         },
         {
           "Name": "label",
@@ -71345,7 +71345,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-p7rUBQ0ssvyRjcugKD5XYpGP/UkzPgAdCiw5drxgPKE="
+          "Value": "sha256-wVFEgX8X9dqyaIhZpLmcVCTbRQJF4JFFLDTeRKeh3G0="
         }
       ]
     },

@@ -1,0 +1,101 @@
+@page "/nuevohome/servicioretroactivas"
+@page "/{locale}/nuevohome/servicioretroactivas"
+
+<!--Sección de portada-->
+<section class="p-p">
+    <div class="container">
+        <div class="row portada-servicio">
+            <div class="col-xl-7 col-md-5 servicios-title">
+                <h1>
+                    Búsquedas Retroactivas
+                </h1>
+                <NavLink class="btn btn-apolo-y shadow mt-3 mb-5" href="@($"/{Locale}/nuevohome/carrito")">Contratar</NavLink>
+            </div>
+        </div>
+
+        <div class="row bg-apolo-blue banner-img-servicio">
+            <div class="col-xl-5 col-md-6">
+                <img src="img/busquedas-retroactivas.png" alt="Imagen del celular" class="img-flex">
+            </div>
+            <div class="col-xl-6 col-md-5 txt-centrado-xy">
+                <p class="mb-5">
+                    Retroactivas Apolo proporciona una solución integral para investigar información del pasado.
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!--Sección de Video servicio-->
+<section class="box-sh-b">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-5">
+                <p>
+                    La información que necesitas, rápido y fácil.
+                </p>
+                <p>
+                    ¿Quieres conocer todos los detalles clave sobre una empresa o persona? En minutos te entregamos un informe completo con información legal, judicial, reputacional y administrativa.
+                </p>
+                <p>
+                    <b>Regístrate hoy y recibe 2 Búsquedas Retroactivas completamente gratis.</b>
+                </p>
+                <p>
+                    ¡Empieza ahora y toma decisiones más inteligentes!
+                </p>
+                <NavLink class="btn btn-apolo-y shadow mt-3 mb-5" href="@($"/{Locale}/nuevohome/carrito")">Cotizar servicio</NavLink>
+            </div>
+            <div class="col-xl-7">
+                <iframe class="w-100" height="315" src="https://www.youtube.com/embed/c9_R_Lo_Duc?si=XDX67Rcobq5jOiMY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!--Sección de formulario-->
+<section>
+    <div class="container pb-5 form-service">
+        <div class="row">
+            <div class="col-xl-12 text-center">
+                <h1 class="">Te regalamos tu primera alerta</h1>
+                <p class="mb-5 subtitle">Solamente registra tu información</p>
+            </div>
+            <div class="col-xl-6 col-md-6 pb-3">
+                <input type="text" class="form-control" placeholder="Nombre*" aria-label="Nombre">
+            </div>
+            <div class="col-xl-6 col-md-6 pb-3">
+                <input type="text" class="form-control" placeholder="Apellidos*" aria-label="Apellidos">
+            </div>
+            <div class="col-xl-6 col-md-6 pb-3">
+                <input type="text" class="form-control" placeholder="Correo*" aria-label="Correo">
+            </div>
+            <div class="col-xl-6 col-md-6 pb-3">
+                <input type="text" class="form-control" placeholder="Teléfono*" aria-label="Teléfono">
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-xl-6 col-md-6 pb-3">
+                <input type="text" class="form-control" placeholder="Contraseña*" aria-label="Contraseña">
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-xl-6 col-md-6 pb-3">
+                <div class="text-center">
+                    <p class="subtitle">Ingresa la keyword para realizar la búsqueda</p>
+                </div>
+                <input type="text" class="form-control" placeholder="Keyword*" aria-label="Keyword">
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-xl-6 col-md-6 pb-3 text-center">
+                <button class="btn btn-apolo-y shadow mt-3">Registrar</button>
+                <p class="subtitle">Al dar click en registrarse, aceptas nuestro aviso de privacidad así cómo nuestros términos y condiciones.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+@code {
+    [Parameter]
+    public string Locale { get; set; }
+}

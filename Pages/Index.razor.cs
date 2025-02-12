@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Components;
 using Microsoft.JSInterop;
 using System.Globalization;
+using ApoloHome.Componentes;
 
 namespace ApoloHome.Pages
 {
@@ -14,6 +15,8 @@ namespace ApoloHome.Pages
 
         [Inject]
         private IJSRuntime JSRuntime { get; set; } // Asegúrate de inyectar JSRuntime si lo usas
+
+        private RegistroModal RegistroRef { get; set; }
 
         protected override async Task OnAfterRenderAsync(bool firstRender)
         {

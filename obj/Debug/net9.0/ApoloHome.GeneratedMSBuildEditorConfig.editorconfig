@@ -28,20 +28,40 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DaniG/ApoloHomeVSC/ApoloHome/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+[C:/Users/DaniG/ApoloHomeVSC/ApoloHome/Componentes/RegistroModal.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50ZXNcUmVnaXN0cm9Nb2RhbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DaniG/ApoloHomeVSC/ApoloHome/Pages/AlertasApolo.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWxlcnRhc0Fwb2xvLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DaniG/ApoloHomeVSC/ApoloHome/Pages/Carrito.Razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2Fycml0by5SYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DaniG/ApoloHomeVSC/ApoloHome/Pages/Contacto.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdG8ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/DaniG/ApoloHomeVSC/ApoloHome/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DaniG/ApoloHomeVSC/ApoloHome/Pages/Servicios.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VydmljaW9zLnJhem9y
+[C:/Users/DaniG/ApoloHomeVSC/ApoloHome/Pages/MarketPlace.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFya2V0UGxhY2UucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DaniG/ApoloHomeVSC/ApoloHome/Pages/Weather.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5yYXpvcg==
+[C:/Users/DaniG/ApoloHomeVSC/ApoloHome/Pages/Membresias.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVtYnJlc2lhcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DaniG/ApoloHomeVSC/ApoloHome/Pages/ReporteKrypto.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVwb3J0ZUtyeXB0by5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DaniG/ApoloHomeVSC/ApoloHome/Pages/RetroactivasApolo.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmV0cm9hY3RpdmFzQXBvbG8ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/DaniG/ApoloHomeVSC/ApoloHome/shared/Footer.razor]

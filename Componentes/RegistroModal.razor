@@ -1,0 +1,156 @@
+<!-- Register Modal -->
+<div class="modal fade" id="registroApolo" tabindex="-1" role="dialog" aria-labelledby="registerApoloTitle" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header justify-content-center" style="background-color:#107fc9; color:#fff;">
+                <p class="modal-title h5" id="registerApoloTitle"><strong>Registro</strong></p>
+                <button type="button" class="btn-close" data-dismiss="modal" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div class="container-fluid">
+                    <div class="row login-form">
+                        <div class="col-12">
+                            <div id="form-registro">
+                                <!-- Registrarse como -->
+                                <div class="row">
+                                    <div class="col-12">
+                                        <div class="form-group">
+                                            <label for="selTypoRegistro">¿Cómo deseas registrarte?</label>
+                                            <select id="selTypoRegistro" class="form-select form-select-sm">
+                                                <option value="0" selected>Selecciona una opción</option>
+                                                <option value="1">Vendedor</option>
+                                                <option value="2">Comprador</option>
+                                            </select>
+                                            <!-- Mapa Google -->
+                                            <div id="map" style="width:100%; min-height:250px; border:1px solid red; display:none;"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- Tipo de persona -->
+                                <div class="row">
+                                    <div class="col-12">
+                                        <div class="form-group">
+                                            <label for="selTypoPersona">¿Qué tipo de persona eres?</label>
+                                            <select id="selTypoPersona" class="form-select form-select-sm">
+                                                <option value="0" selected>Selecciona una opción</option>
+                                                <option value="1">Persona Física</option>
+                                                <option value="2">Persona Moral</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- Nombre completo / Razón social -->
+                                <div class="row">
+                                    <div class="col-12">
+                                        <div class="form-group">
+                                            <label for="txtnombre">Nombre Completo / Razón Social</label>
+                                            <input type="text" id="txtnombre" class="form-control form-control-sm" placeholder="Ingresa tu nombre o razón social" />
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- Persona a quién contactar -->
+                                <div id="fmo-prov" class="row">
+                                    <div class="col-12">
+                                        <div class="form-group">
+                                            <label for="txtcontacto">Persona de Contacto</label>
+                                            <input type="text" id="txtcontacto" class="form-control form-control-sm" placeholder="Nombre de contacto" />
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- Email y Teléfono -->
+                                <div class="row">
+                                    <div class="col-12 col-md-5">
+                                        <div class="form-group">
+                                            <label for="txtemail">Correo Electrónico</label>
+                                            <input type="email" id="txtemail" class="form-control form-control-sm" placeholder="Ingresa tu correo" />
+                                        </div>
+                                    </div>
+                                    <div class="col-12 col-md-1 d-none d-sm-block">&nbsp;</div>
+                                    <div class="col-12 col-md-6">
+                                        <div class="form-group">
+                                            <label for="txtphone">Teléfono</label>
+                                            <input type="tel" id="txtphone" class="form-control form-control-sm only-number" placeholder="Ingresa tu teléfono" />
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- CP o Botón ubicación -->
+                                <div class="row">
+                                    <div class="col-12 col-md-5">
+                                        <div class="form-group">
+                                            <label for="txtCP">Código Postal</label>
+                                            <input type="text" id="txtCP" class="form-control form-control-sm only-number" placeholder="Ingresa tu código postal" />
+                                        </div>
+                                    </div>
+                                    <div class="col-12 col-md-1" style="display:flex; align-items:center">
+                                        <div style="width:100%;" class="text-center">
+                                            <span>O</span>
+                                        </div>
+                                    </div>
+                                    <div class="col-12 col-md-6">
+                                        <div class="form-group">
+                                            <label for="btnUbica">Ubicación</label>
+                                            <button id="btnUbica" style="width:100%;" type="button" class="btn btn-apolo btn-sm" disabled>Obtener ubicación</button>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- País y Estado -->
+                                <div class="row">
+                                    <div class="col-12 col-md-5">
+                                        <div class="form-group">
+                                            <label for="selPais">País</label>
+                                            <select id="selPais" class="form-select form-select-sm">
+                                                <option value="0" selected>Selecciona un país</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                    <div class="col-12 col-md-1 d-none d-sm-block">&nbsp;</div>
+                                    <div class="col-12 col-md-6">
+                                        <div class="form-group">
+                                            <label for="selEstado">Estado</label>
+                                            <select id="selEstado" class="form-select form-select-sm">
+                                                <option value="0" selected>Selecciona un estado</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- Contraseña y Confirmar contraseña -->
+                                <div class="row">
+                                    <div class="col-12 col-md-5">
+                                        <div class="form-group">
+                                            <label for="txtpasswd">Contraseña</label>
+                                            <input type="password" id="txtpasswd" class="form-control form-control-sm" placeholder="Ingresa tu contraseña" />
+                                        </div>
+                                    </div>
+                                    <div class="col-12 col-md-1 d-none d-sm-block">&nbsp;</div>
+                                    <div class="col-12 col-md-6">
+                                        <div class="form-group">
+                                            <label for="txtcpasswd">Confirmar Contraseña</label>
+                                            <input type="password" id="txtcpasswd" class="form-control form-control-sm" placeholder="Confirma tu contraseña" />
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- Confirmar términos y condiciones -->
+                                <div class="row">
+                                    <div class="col-12">
+                                        <div class="form-group m-0">
+                                            <label class="custom-control custom-checkbox">
+                                                <input id="chkTerm" type="checkbox" class="custom-control-input">
+                                                <span class="custom-control-label">Acepto los </span>
+                                                <a id="aviso" target="_blank" href="/es/apolo-aviso">Aviso de privacidad</a>
+                                                <span> y los </span>
+                                                <a id="lnkterminos" target="_blank" href="/es/apolo-terminos">Términos y condiciones</a>.
+                                            </label>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-12 text-center">
+                            <button id="btnRegister" type="button" class="btn btn-primary">Finalizar Registro</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

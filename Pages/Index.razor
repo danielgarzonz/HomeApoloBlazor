@@ -1,5 +1,7 @@
 @using ApoloHome.Pages
+@using ApoloHome.Componentes
 @page "/"
+@page "/apolo-registro"
 
 <!--Seccion Portada-->
 <section class="portada-principal">
@@ -23,7 +25,7 @@
     <!--Sección de Servicios-->
     <section id="servicios">
         <div class="container position-relative z-1 text-center mb-5">
-            <h1 class="mb-5">¿Listo para dar el siguiente paso?</h1>
+            <h1 class="mb-5">Impulsa tu éxito con nuestros servicios</h1>
             <!--Listado de opciones-->
             <div class="container-tabs mb-3">
                 <ul class="nav justify-content-around" role="tablist">
@@ -52,7 +54,7 @@
                         <button class="nav-link link-apolo" id="pills-mk-tab" data-bs-toggle="pill"
                                 data-bs-target="#pills-mk" type="button" role="tab"
                                 aria-controls="pills-mk" aria-selected="false">
-                            Market Place
+                            Marketplace
                         </button>
                     </li>
                 </ul>
@@ -146,7 +148,7 @@
             </div>
         </div>
 
-        <div class="container container-parallax">
+        <div class="container container-parallax pt-5" id="nosotros">
             <img class="img-flex bg-sol-t h-parallax" data-speed="0.5" src="img/solapolo-back.png">
             <div class="row">
                 <div class="col-lg-6 col-md-12">
@@ -344,7 +346,7 @@
         <!--Seccion servicios adicionales-->
     <section id="serviciosadicionales">
         <div class="container position-relative z-1 text-center mb-5">
-            <h1 class="mb-5">Servicios adicionales</h1>
+            <h1 class="mb-5">Conoce nuestros servicios adicionales</h1>
             <!--Listado de opciones-->
             <div class="container-tabs mb-3">
                 <ul class="nav justify-content-around" role="tablist">
@@ -532,3 +534,5 @@
         </div>
     </section>
 </div>
+
+<RegistroModal @ref="RegistroRef" />
